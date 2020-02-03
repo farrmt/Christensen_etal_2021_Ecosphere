@@ -24,3 +24,5 @@ $RECYCLE.BIN/
 .Rproj.user
 Manuscript/
 .Rhistory
+.Rproj
+DataAnalysis/SimulationOutput
