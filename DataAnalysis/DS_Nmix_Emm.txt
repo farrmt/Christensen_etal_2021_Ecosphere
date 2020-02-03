@@ -1,0 +1,83 @@
+model {
+
+phix ~ dunif(0, 1)
+phiy ~ dunif(0, 1)
+p ~ dunif(0, 1)
+
+for(j in sites){
+
+beta[j] ~ dnorm(0, 0.1)
+
+gs.lam.star[j] <- gs.lam[j] * rhog[j]
+gs.lam[j] <- exp(beta[j])
+rhog[j] ~ dgamma(rg, rg)
+
+}
+
+#rx ~ dgamma(0.1, 0.1)
+#ry ~ dgamma(0.1, 0.1)
+rg ~ dgamma(0.1, 0.1)
+
+#rx ~ dunif(0, 100)
+#ry ~ dgamma(0, 100)
+#rg ~ dgamma(0, 100)
+
+sigma <- exp(gamma)
+gamma ~ dnorm(0, 0.1)
+
+pi <- sum(f[])
+
+for (k in 1:nK){
+g[k] <- exp(-mdpt[k]*mdpt[k]/(2*sigma*sigma))
+f[k] <- g[k] * v[k]/B
+fc[k] <- f[k]/pi
+}#end k
+
+for (t in 1:nyrs){
+
+lambdax[t] <- exp(alphax[t])
+lambday[t] <- exp(alphay[t])
+
+alphax[t] ~ dnorm(0, 0.1)
+alphay[t] ~ dnorm(0, 0.1)
+
+#lambda.starx[t] <- lambdax[t]*rhox[t]
+#lambda.stary[t] <- lambday[t]*rhoy[t]
+#rhox[t] ~ dgamma(rx, rx)
+#rhoy[t] ~ dgamma(ry, ry)
+
+for (j in 1:nsites) {
+for (d in 1:ndays[t]) {
+for (o in 1:nreps){
+X[t,j,d,o] ~ dbin(pi, Nx[t,j,d])
+Y[t,j,d,o] ~ dbin(p, Ny[t,j,d])
+
+}#end o
+
+Nx[t,j,d] ~ dbin(phix, Mx[t,j])
+Ny[t,j,d] ~ dbin(phiy, My[t,j])
+
+}#end d
+
+Mx[t,j] ~ dpois(lambdax[t])
+My[t,j] ~ dpois(lambday[t])
+
+#Mx[t,j] ~ dpois(lambda.starx[t])
+#My[t,j] ~ dpois(lambda.stary[t])
+
+}#end j
+
+mean.Abundx[t] <- sum(lambdax[t] * gs.lam.star[sites])
+mean.Abundy[t] <- sum(lambday[t] * gs.lam.star[sites])
+
+#mean.Abundx[t] <- sum(lambda.starx[t] * gs.lam.star[sites])
+#mean.Abundy[t] <- sum(lambda.stary[t] * gs.lam.star[sites])
+
+}#end t
+
+for(i in 1:nobs){
+dclass[i] ~ dcat(fc[1:nK])
+gs[i] ~ dpois(gs.lam.star[site[i]])T(1,)
+}
+
+}

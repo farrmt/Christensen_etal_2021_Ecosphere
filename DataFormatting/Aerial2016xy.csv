@@ -1,0 +1,344 @@
+Record,Survey,Study_Area,Light,Snow,Sky_code,Pilot,Duration,Flight_spe,Altitude__,Header,Name,Date,lat,lon,Altitude,Observer,OBS,Transect,Group_Size,Heading_Di,Position,Time,Distance_C,Activity,Initial_Ob,At_or_Past,Cover,Notes,X,Y
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,40,2/26/2016,42.969383,-84.936364,400.479523,BR/MW,1,1,6,N,R,16:02:26+00,C,B,B,@,W,,586606,269286
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,41,2/26/2016,43.009068,-84.936288,405.383331,BR/MW,1,1,1,N,R,16:04:03+00,C,S,M,@,W,,586555,273692
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,42,2/26/2016,43.070208,-84.936494,391.261658,BR/MW,1,1,2,N,R,16:06:31+00,E,S,M,@,O,,586450,280481
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,43,2/26/2016,43.137085,-84.935755,415.501068,BR/MW,1,1,5,N,R,16:09:16+00,,M,M,P,O,,586414,287908
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,44,2/26/2016,43.144875,-84.935715,411.47464,BR/MW,1,1,1,N,R,16:09:35+00,D,S,M,@,W,,586406,288773
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,45,2/26/2016,43.106527,-84.935756,399.481171,BR/MW,1,1,3,S,R,16:12:21+00,E,S,B,@,W,,586458,284515
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,46,2/26/2016,43.071217,-84.936203,397.812439,BR/MW,1,1,9,S,R,16:13:48+00,E,S,B,@,O,,586472,280593
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,46,2/26/2016,43.071217,-84.936203,397.812439,BR/MW,1,1,3,S,R,16:13:48+00,E,S,B,@,O,,586472,280593
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,47,2/26/2016,43.064672,-84.936104,414.784302,BR/MW,1,1,2,S,R,16:14:04+00,C,S,M,@,W,,586490,279867
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,48,2/26/2016,43.029033,-84.936214,412.986511,BR/MW,1,1,1,S,R,16:15:32+00,B,S,M,@,W,,586532,275909
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,49,2/26/2016,43.024176,-84.936014,414.955719,BR/MW,1,1,8,S,R,16:15:44+00,D,S,B,P,W,,586556,275370
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,50,2/26/2016,42.978354,-84.93565,397.499359,BR/MW,1,1,3,S,R,16:17:37+00,C,S,M,@,W,,586651,270283
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,51,2/26/2016,42.972436,-84.935743,398.897247,BR/MW,1,1,3,S,R,16:17:51+00,C,S,M,@,W,,586652,269625
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,52,2/26/2016,42.99461,-84.876711,412.349091,BR/MW,1,2,1,N,R,16:21:20+00,B,S,M,@,O,,591432,272152
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,53,2/26/2016,43.161145,-84.876128,389.454559,BR/MW,1,2,2,S,R,16:29:01+00,E,S,B,@,O,,591226,290644
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,54,2/26/2016,43.15746,-84.87596,392.560028,BR/MW,1,2,1,S,R,16:29:10+00,E,S,M,@,O,,591245,290235
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,55,2/26/2016,43.142342,-84.875996,399.208649,BR/MW,1,2,2,S,R,16:29:46+00,C,S,B,@,W,,591265,288557
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,56,2/26/2016,43.100931,-84.87647,397.280304,BR/MW,1,2,4,S,R,16:31:29+00,A,S,M,@,W,,591290,283958
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,57,2/26/2016,43.094623,-84.876399,401.33078,BR/MW,1,2,5,S,R,16:31:45+00,B,S,B,@,W,,591305,283257
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,58,2/26/2016,43.052426,-84.876455,390.576569,BR/MW,1,2,3,S,R,16:33:29+00,D,B,B,@,W,,591365,278572
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,59,2/26/2016,43.044627,-84.87658,406.029205,BR/MW,1,2,5,S,R,16:33:48+00,C,B,M,@,W,,591367,277706
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,61,2/26/2016,43.040288,-84.87664,406.456421,BR/MW,1,2,9,S,R,16:33:59+00,D,S,B,@,O,,591368,277224
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,62,2/26/2016,43.01132,-84.876863,388.108704,BR/MW,1,2,1,S,R,16:35:08+00,A,S,M,@,W,,591394,274007
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,63,2/26/2016,42.996728,-84.876926,386.966095,BR/MW,1,3,6,N,R,16:35:45+00,C,B,B,P,W,,591411,272387
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,64,2/26/2016,42.991276,-84.818691,409.532623,BR/MW,1,3,16,N,R,16:39:14+00,D,S,B,@,W,,596166,271848
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,65,2/26/2016,43.041296,-84.818569,400.20578,BR/MW,1,3,7,N,R,16:41:15+00,D,S,B,@,W,,596096,277402
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,66,2/26/2016,43.055834,-84.818754,403.769897,BR/MW,1,3,3,N,R,16:41:50+00,B,B,B,@,W,,596058,279016
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,67,2/26/2016,43.062085,-84.818789,399.93869,BR/MW,1,3,10,N,R,16:42:05+00,D,S,M,@,W,,596045,279710
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,68,2/26/2016,43.095844,-84.818396,409.674408,BR/MW,1,3,2,N,R,16:43:25+00,E,S,B,@,O,,596023,283459
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,69,2/26/2016,43.099403,-84.818507,406.099396,BR/MW,1,3,1,S,R,16:43:34+00,D,S,B,@,W,,596008,283854
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,70,2/26/2016,43.172121,-84.817398,405.395752,BR/MW,1,3,1,S,R,16:47:52+00,E,S,M,@,O,,595982,291930
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,71,2/26/2016,43.169164,-84.817395,399.810883,BR/MW,1,3,3,S,R,16:47:59+00,E,S,B,@,W,,595987,291602
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,72,2/26/2016,43.136059,-84.817833,397.423004,BR/MW,1,3,22,S,R,16:49:21+00,E,S,B,@,O,,596005,287925
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,73,2/26/2016,43.01296,-84.818567,407.383545,BR/MW,1,3,9,S,R,16:54:30+00,B,B,M,@,W,,596142,274256
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,74,2/26/2016,42.994988,-84.818716,409.260284,BR/MW,1,3,3,S,R,16:55:14+00,C,B,M,@,W,,596158,272260
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,75,2/26/2016,42.989421,-84.818829,420.157867,BR/MW,1,4,4,N,R,16:55:28+00,D,S,B,@,W,,596158,271642
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,76,2/26/2016,43.083845,-84.758949,403.867584,BR/MW,1,4,1,N,R,17:00:49+00,D,S,B,@,O,,600881,282198
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,76,2/26/2016,43.124802,-84.758538,402.914612,BR/MW,1,4,5,N,R,17:02:27+00,E,S,M,@,O,,600845,286747
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,77,2/26/2016,43.172098,-84.758017,403.84079,BR/MW,1,4,4,N,R,17:04:24+00,E,S,B,@,O,,600808,291999
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,78,2/26/2016,43.099683,-84.758668,400.21582,BR/MW,1,4,6,S,R,17:10:07+00,D,S,B,@,W,,600877,283957
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,79,2/26/2016,43.068059,-84.759308,397.432709,BR/MW,1,4,3,S,R,17:11:28+00,E,B,B,@,O,,600878,280445
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,80,2/26/2016,43.023581,-84.759439,416.892914,BR/MW,1,4,3,S,R,17:13:23+00,D,B,B,@,W,,600942,275506
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,81,2/26/2016,43.100243,-84.69954,389.265717,BR/MW,1,5,11,N,R,17:19:40+00,C,B,M,@,W,,605687,284094
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,82,2/26/2016,43.114874,-84.699578,393.858612,BR/MW,1,5,10,N,R,17:20:14+00,C,B,B,@,W,,605658,285718
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,83,2/26/2016,43.121008,-84.69972,399.975159,BR/MW,1,5,7,N,R,17:20:28+00,A,B,M,@,W,,605636,286399
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,84,2/26/2016,43.166181,-84.699662,403.988037,BR/MW,1,5,12,S,R,17:26:27+00,A,B,M,@,W,,605561,291415
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,85,2/26/2016,43.108973,-84.699696,375.418427,BR/MW,1,5,5,S,R,17:28:51+00,C,S,B,@,W,,605659,285063
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,86,2/26/2016,43.106883,-84.699622,373.891724,BR/MW,1,5,3,S,R,17:28:56+00,C,S,M,@,W,,605669,284831
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,87,2/26/2016,43.084588,-84.699822,402.784668,BR/MW,1,5,3,S,R,17:29:53+00,C,S,B,@,W,,605692,282355
+,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,88,2/26/2016,43.051588,-84.699757,410.692352,BR/MW,1,5,2,S,R,17:31:19+00,B,S,B,@,W,,605755,278691
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,89,3/3/2016,42.970118,-84.936644,406.272919,BR/MW,1,1,4,N,R,15:59:28+00,C,B,B,@,W,,586582,269367
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,90,3/3/2016,42.987127,-84.936084,385.977905,BR/MW,1,1,1,N,R,16:00:06+00,C,S,M,@,W,,586603,271256
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,91,3/3/2016,43.069619,-84.936308,394.105835,BR/MW,1,1,6,N,R,16:03:33+00,E,,M,@,O,,586466,280416
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,92,3/3/2016,43.113613,-84.935832,399.607971,BR/MW,1,1,8,N,R,16:05:24+00,C,S,B,@,W,,586441,285302
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,93,3/3/2016,43.120534,-84.935793,402.22876,BR/MW,1,1,3,N,R,16:05:40+00,D,S,B,@,O,,586434,286070
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,94,3/3/2016,43.135844,-84.935846,405.610687,BR/MW,1,1,8,N,R,16:06:18+00,D,S,B,@,W,,586408,287770
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,95,3/3/2016,43.1406,-84.935678,405.364197,BR/MW,1,1,4,N,R,16:06:30+00,B,B,B,@,W,*Unsure of correct direction change point,586415,288298
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,96,3/3/2016,43.146105,-84.935363,408.114807,BR/MW,1,1,3,N,R,16:06:43+00,C,S,B,@,W,,586433,288910
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,97,3/3/2016,43.146571,-84.935328,396.561493,BR/MW,1,1,10,S,R,16:07:54+00,A,S,M,@,O,,586435,288962
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,98,3/3/2016,43.074441,-84.93626,385.763123,BR/MW,1,1,6,S,R,16:10:57+00,A,B,M,@,W,,586463,280951
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,98,3/3/2016,43.074441,-84.93626,385.763123,BR/MW,1,1,2,S,R,16:10:57+00,B,B,M,@,O,,586463,280951
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,100,3/3/2016,43.064791,-84.936531,385.502655,BR/MW,1,1,9,S,R,16:11:21+00,A,B,M,@,W,,586455,279880
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,101,3/3/2016,43.028864,-84.936294,381.466095,BR/MW,1,1,11,S,R,16:12:53+00,B,S,M,@,W,,586526,275890
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,102,3/3/2016,43.024752,-84.936344,389.129913,BR/MW,1,1,3,S,R,16:13:04+00,B,S,M,@,W,,586528,275434
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,103,3/3/2016,42.978904,-84.935828,379.828064,BR/MW,1,1,3,S,R,16:14:58+00,A,S,M,@,W,,586636,270343
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,104,3/3/2016,42.969743,-84.936295,394.456299,BR/MW,1,1,2,S,R,16:15:21+00,B,S,B,@,O,,586611,269326
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,105,3/3/2016,42.965004,-84.936715,390.700165,BR/MW,1,1,5,S,R,16:15:33+00,D,B,M,@,W,,586584,268799
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,106,3/3/2016,42.992402,-84.877021,389.106079,BR/MW,1,2,3,N,R,16:18:58+00,B,S,B,@,O,,591410,271906
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,107,3/3/2016,42.995373,-84.877047,380.977142,BR/MW,1,2,6,N,R,16:19:05+00,D,S,M,@,O,,591403,272236
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,108,3/3/2016,43.028207,-84.876697,383.867615,BR/MW,1,2,7,N,R,16:20:23+00,C,S,B,@,W,,591382,275882
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,109,3/3/2016,43.053481,-84.876985,396.354462,BR/MW,1,2,1,N,R,16:21:25+00,D,B,M,@,O,,591320,278688
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,110,3/3/2016,43.080494,-84.876549,402.801056,BR/MW,1,2,1,N,R,16:22:31+00,C,S,B,@,O,,591314,281688
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,110,3/3/2016,43.080494,-84.876549,402.801056,BR/MW,1,2,3,N,R,16:22:31+00,D,S,M,@,W,,591314,281688
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,111,3/3/2016,43.095391,-84.876433,399.099701,BR/MW,1,2,4,N,R,16:23:06+00,D,S,B,@,O,,591301,283343
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,112,3/3/2016,43.144332,-84.876122,393.097595,BR/MW,1,2,15,S,R,16:27:41+00,E,S,B,@,O,,591252,288777
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,113,3/3/2016,43.13597,-84.876222,390.343597,BR/MW,1,2,3,S,R,16:28:02+00,E,B,B,@,O,,591257,287849
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,113,3/3/2016,43.13597,-84.876222,390.343597,BR/MW,1,2,1,S,R,16:28:02+00,D,S,M,@,O,,591257,287849
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,114,3/3/2016,43.101397,-84.876474,387.161896,BR/MW,1,2,10,S,R,16:29:29+00,D,S,B,@,W,,591289,284010
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,115,3/3/2016,43.087496,-84.87642,387.579773,BR/MW,1,2,4,S,R,16:30:03+00,E,S,B,@,W,,591314,282466
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,116,3/3/2016,43.082526,-84.876421,386.907135,BR/MW,1,2,4,S,R,16:30:15+00,E,S,B,@,O,,591322,281914
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,117,3/3/2016,43.054382,-84.876436,400.232391,BR/MW,1,2,1,S,R,16:31:27+00,C,S,B,@,O,,591363,278789
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,117,3/3/2016,43.054382,-84.876436,400.232391,BR/MW,1,2,8,S,R,16:31:27+00,A,S,M,@,W,,591363,278789
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,118,3/3/2016,43.042722,-84.876715,392.393005,BR/MW,1,2,7,S,R,16:31:56+00,B,,B,@,O,,591358,277494
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,118,3/3/2016,43.042722,-84.876715,392.393005,BR/MW,1,2,1,S,R,16:31:56+00,C,S,M,@,W,,591358,277494
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,119,3/3/2016,43.026422,-84.876693,380.839355,BR/MW,1,2,5,S,R,16:32:36+00,C,B,B,@,W,,591385,275684
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,120,3/3/2016,43.020859,-84.876704,381.230011,BR/MW,1,2,3,S,R,16:32:49+00,E,S,M,@,W,,591393,275066
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,121,3/3/2016,43.014462,-84.876746,393.009064,BR/MW,1,2,5,S,R,16:33:05+00,A,B,M,@,O,,591399,274356
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,122,3/3/2016,43.010793,-84.876691,398.05481,BR/MW,1,2,4,S,R,16:33:15+00,B,B,M,@,O,,591409,273949
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,123,3/3/2016,42.997689,-84.87669,389.53772,BR/MW,1,2,4,S,R,16:33:49+00,B,B,B,@,W,,591429,272494
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,123,3/3/2016,42.997689,-84.87669,389.53772,BR/MW,1,2,2,S,R,16:33:49+00,C,B,B,@,W,,591429,272494
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,124,3/3/2016,42.996377,-84.876684,386.410736,BR/MW,1,2,4,S,R,16:33:52+00,B,S,M,@,W,,591431,272348
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,125,3/3/2016,42.988733,-84.81891,385.476593,BR/MW,1,3,9,N,R,16:37:33+00,D,S,B,@,W,,596153,271565
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,126,3/3/2016,43.078468,-84.819091,373.70694,BR/MW,1,3,1,N,R,16:41:06+00,A,B,M,@,O,,595994,281529
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,127,3/3/2016,43.112425,-84.81867,382.387085,BR/MW,1,3,6,N,R,16:42:28+00,E,S,B,P,O,,595974,285300
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,128,3/3/2016,43.123169,-84.818227,385.801666,BR/MW,1,3,3,N,R,16:42:54+00,A,B,M,@,O,,595993,286494
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,129,3/3/2016,43.112848,-84.818523,383.283966,BR/MW,1,3,2,S,R,16:48:46+00,E,S,M,@,O,,595986,285347
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,130,3/3/2016,43.078398,-84.819199,389.242249,BR/MW,1,3,1,S,R,16:50:10+00,C,S,B,@,W,,595986,281521
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,131,3/3/2016,43.071729,-84.819136,377.136871,BR/MW,1,3,4,S,R,16:50:26+00,C,S,M,@,W,,596002,280781
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,132,3/3/2016,43.058673,-84.818976,376.699127,BR/MW,1,3,5,S,R,16:50:57+00,D,B,B,@,W,,596035,279331
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,133,3/3/2016,43.054512,-84.819019,361.677551,BR/MW,1,3,4,S,R,16:51:07+00,B,B,M,@,W,,596039,278869
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,134,3/3/2016,43.013752,-84.818724,386.470673,BR/MW,1,3,13,S,R,16:52:51+00,E,M,B,@,O,,596128,274344
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,135,3/3/2016,42.99376,-84.818701,387.303925,BR/MW,1,3,5,S,R,16:53:41+00,C,B,M,@,O,,596162,272124
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,136,3/3/2016,42.988722,-84.818803,383.733826,BR/MW,1,3,4,S,R,16:53:53+00,C,B,M,@,BRUSH,,596161,271564
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,137,3/3/2016,43.069439,-84.759065,396.717255,BR/MW,1,4,18,N,R,16:59:04+00,E,S,B,@,O,,600895,280599
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,138,3/3/2016,43.100591,-84.758882,389.768768,BR/MW,1,4,9,N,R,17:00:17+00,D,S,B,@,O,,600858,284058
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,139,3/3/2016,43.108543,-84.759287,386.909851,BR/MW,1,4,1,N,R,17:00:37+00,E,M,M,@,O,,600812,284940
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,140,3/3/2016,43.122913,-84.758954,387.610992,BR/MW,1,4,2,N,R,17:01:12+00,D,S,B,@,O,,600815,286536
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,141,3/3/2016,43.128514,-84.758951,381.262146,BR/MW,1,4,5,N,R,17:01:26+00,E,S,M,@,W,,600806,287158
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,142,3/3/2016,43.102765,-84.758888,377.283569,BR/MW,1,4,17,S,R,17:08:41+00,C,S,B,@,O,,600854,284299
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,142,3/3/2016,43.102765,-84.758888,377.283569,BR/MW,1,4,3,S,R,17:08:41+00,E,S,M,@,O,,600854,284299
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,143,3/3/2016,43.077447,-84.759103,369.301178,BR/MW,1,4,4,S,R,17:09:41+00,C,B,M,@,W,BRUSH,600879,281488
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,144,3/3/2016,43.055304,-84.69961,383.138123,BR/MW,1,5,34,N,R,17:16:38+00,E,S,M,@,O,,605760,279104
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,145,3/3/2016,43.066707,-84.69989,390.980072,BR/MW,1,5,5,N,R,17:17:06+00,B,S,B,@,W,,605717,280370
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,145,3/3/2016,43.066707,-84.69989,390.980072,BR/MW,1,5,6,N,R,17:17:06+00,A,B,M,@,W,BRUSH,605717,280370
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,146,3/3/2016,43.086314,-84.699981,394.889374,BR/MW,1,5,4,N,R,17:17:54+00,D,S,B,@,W,BRUSH,605676,282547
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,147,3/3/2016,43.089242,-84.699904,404.111267,BR/MW,1,5,6,N,R,17:18:01+00,C,,M,@,O,,605677,282872
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,148,3/3/2016,43.101425,-84.699416,381.886108,BR/MW,1,5,4,N,R,17:18:30+00,C,B,M,@,W,,605695,284225
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,149,3/3/2016,43.121352,-84.699716,385.446838,BR/MW,1,5,2,N,R,17:19:17+00,C,S,B,@,O,,605636,286438
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,149,3/3/2016,43.121352,-84.699716,385.446838,BR/MW,1,5,1,N,R,17:19:17+00,B,B,M,@,W,,605636,286438
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,150,3/3/2016,43.149558,-84.699803,391.190002,BR/MW,1,5,5,N,R,17:20:28+00,A,S,M,@,W,,605579,289569
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,151,3/3/2016,43.122828,-84.699795,389.004181,BR/MW,1,5,5,S,R,17:27:03+00,B,B,B,@,W,,605627,286601
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,152,3/3/2016,43.112288,-84.699974,376.099274,BR/MW,1,5,2,S,R,17:27:27+00,A,M,M,@,W,,605631,285431
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,153,3/3/2016,43.108938,-84.699961,376.289825,BR/MW,1,5,3,S,R,17:27:35+00,B,S,M,@,W,,605638,285059
+,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,154,3/3/2016,43.095034,-84.699994,383.917999,BR/MW,1,5,4,S,R,17:28:08+00,B,B,B,@,W,,605659,283515
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,155,3/4/2016,42.970643,-84.936318,384.917389,MW/CS,1,1,5,N,R,14:42:04Z,D,B,M,@,W,,586608,269426
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,156,3/4/2016,43.121206,-84.93573,394.190704,MW/CS,1,1,5,N,R,14:42:04Z,C,S,M,@,O,,586439,286145
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,157,3/4/2016,43.14196,-84.935313,392.326935,MW/CS,1,1,3,N,R,14:42:04Z,C,B,M,@,W,,586443,288450
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,158,3/4/2016,43.14765,-84.935391,394.258392,MW/CS,1,1,3,N,R,14:42:04Z,B,B,M,@,W,,586428,289082
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,159,3/4/2016,43.14491,-84.935453,387.251526,MW/CS,1,1,4,S,R,14:42:04Z,B,S,M,@,O,,586427,288777
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,160,3/4/2016,43.083356,-84.936337,387.63855,MW/CS,1,1,4,S,R,14:42:04Z,E,S,M,@,O,,586444,281941
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,161,3/4/2016,43.021367,-84.936406,382.415253,MW/CS,1,1,9,S,R,14:42:04Z,D,S,M,@,O,,586528,275058
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,162,3/4/2016,42.973511,-84.936034,382.236145,MW/CS,1,1,9,S,R,14:42:04Z,B,B,M,@,O,,586627,269744
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,163,3/4/2016,42.969922,-84.936086,382.906372,MW/CS,1,1,1,S,R,14:42:04Z,B,B,M,@,O,,586628,269346
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,164,3/4/2016,42.994138,-84.87694,393.164032,MW/CS,1,2,2,N,R,14:42:04Z,B,S,M,@,W,,591414,272099
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,165,3/4/2016,42.999575,-84.877016,386.922089,MW/CS,1,2,1,N,R,14:42:04Z,B,B,M,@,W,,591400,272703
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,166,3/4/2016,43.034522,-84.876585,386.606201,MW/CS,1,2,4,N,R,14:42:04Z,E,S,M,@,O,,591381,276584
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,167,3/4/2016,43.098746,-84.876188,399.358734,MW/CS,1,2,4,N,R,14:42:04Z,B,S,M,@,O,,591316,283716
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,168,3/4/2016,43.123409,-84.876113,395.736115,MW/CS,1,2,1,N,R,14:42:04Z,C,S,M,@,O,,591285,286454
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,168,3/4/2016,43.123409,-84.876113,395.736115,MW/CS,1,2,1,N,R,14:42:04Z,E,S,M,@,O,,591285,286454
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,169,3/4/2016,43.155928,-84.876027,397.423553,MW/CS,1,2,6,N,R,14:42:04Z,E,S,M,@,O,,591242,290065
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,170,3/4/2016,43.140635,-84.876517,393.479248,MW/CS,1,2,3,S,R,14:42:04Z,B,B,M,P,W,,591226,288367
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,171,3/4/2016,43.133363,-84.876316,392.280609,MW/CS,1,2,3,S,R,14:42:04Z,C,B,M,@,W,,591253,287559
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,172,3/4/2016,43.10105,-84.876384,392.904053,MW/CS,1,2,4,S,R,14:42:04Z,B,B,M,@,W,,591297,283971
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,173,3/4/2016,43.09358,-84.876221,390.381073,MW/CS,1,2,3,S,R,14:42:04Z,D,S,M,@,S,,591321,283142
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,174,3/4/2016,43.082454,-84.87658,390.351318,MW/CS,1,2,11,S,R,14:42:04Z,B,S,M,@,O,,591309,281906
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,175,3/4/2016,43.056871,-84.876803,397.810974,MW/CS,1,2,5,S,R,14:42:04Z,A,S,M,@,O,,591330,279065
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,176,3/4/2016,43.044959,-84.876921,396.418121,MW/CS,1,2,2,S,R,14:42:04Z,C,S,M,@,O,,591338,277742
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,177,3/4/2016,42.995165,-84.876785,394.027466,MW/CS,1,2,2,S,R,14:42:04Z,B,B,M,@,S,,591425,272213
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,178,3/4/2016,42.989017,-84.818415,392.368317,MW/CS,1,3,5,N,R,14:42:04Z,B,S,M,@,O,,596192,271598
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,179,3/4/2016,42.996859,-84.818659,387.955414,MW/CS,1,3,4,N,R,14:42:04Z,C,S,M,@,O,,596160,272468
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,180,3/4/2016,43.108643,-84.817553,400.19519,MW/CS,1,3,3,N,R,14:42:04Z,E,S,M,@,O,,596071,284882
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,181,3/4/2016,43.1724,-84.817261,404.639862,MW/CS,1,3,1,N,R,14:42:04Z,E,S,M,@,O,,595993,291961
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,182,3/4/2016,43.079526,-84.818085,389.870728,MW/CS,1,3,4,S,R,14:42:04Z,B,S,M,@,B,,596075,281648
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,183,3/4/2016,43.05829,-84.818866,386.821106,MW/CS,1,3,2,S,R,14:42:04Z,C,B,M,@,W,,596045,279289
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,184,3/4/2016,43.053797,-84.818649,390.571625,MW/CS,1,3,5,S,R,14:42:04Z,B,B,M,@,W,,596070,278790
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,185,3/4/2016,42.9931,-84.819009,404.811096,MW/CS,1,3,7,S,R,14:42:04Z,A,B,M,@,B,,596138,272050
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,186,3/4/2016,43.10363,-84.758807,388.718903,MW/CS,1,4,2,N,R,14:42:04Z,C,M,M,P,W,,600859,284395
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,187,3/4/2016,43.124408,-84.758713,395.231842,MW/CS,1,4,2,N,R,14:42:04Z,D,S,M,@,O,,600832,286703
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,188,3/4/2016,43.098451,-84.758742,400.388245,MW/CS,1,4,5,S,R,14:42:04Z,A,S,M,@,W,,600873,283820
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,189,3/4/2016,43.078751,-84.759171,391.800934,MW/CS,1,4,2,S,R,14:42:04Z,D,S,M,P,W,,600871,281633
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,190,3/4/2016,43.091245,-84.700034,407.384979,MW/CS,1,5,6,N,R,14:42:04Z,E,S,M,P,O,,605663,283094
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,191,3/4/2016,43.115157,-84.699473,404.278381,MW/CS,1,5,2,N,R,14:42:04Z,B,S,M,@,W,,605666,285750
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,192,3/4/2016,43.143696,-84.699613,405.317352,MW/CS,1,5,6,N,R,14:42:04Z,C,S,M,@,W,,605605,288919
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,193,3/4/2016,43.114127,-84.699646,392.641937,MW/CS,1,5,2,S,R,14:42:04Z,C,S,M,@,W,,605654,285635
+,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,194,3/4/2016,43.109546,-84.699726,385.906708,MW/CS,1,5,5,S,R,14:42:04Z,C,B,M,@,W,,605656,285127
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,117,2/26/2016,42.97367,-84.93633,1244 ft,SC/KJ,2,1,4,N,L,11:02:00 AM,B,M,S,@,W,,586603,269762
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,118,2/26/2016,43.02555,-84.93626,1293 ft,SC/KJ,2,1,6,N,L,11:04:00 AM,C,B,K,@,W,,586534,275523
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,119,2/26/2016,43.06114,-84.9364,1241 ft,SC/KJ,2,1,3,N,L,11:06:00 AM,D,S,K,@,O,,586471,279474
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,120,2/26/2016,43.06554,-84.93632,1223 ft,SC/KJ,2,1,2,N,L,11:06:00 AM,B,S,K,@,W,,586471,279963
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,121,2/26/2016,43.06921,-84.93631,1211 ft,SC/KJ,2,1,5,N,L,11:06:00 AM,C,B,K,@,W,,586466,280370
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,122,2/26/2016,43.07939,-84.93621,1245 ft,SC/KJ,2,1,10,N,L,11:06:00 AM,C,B,K,@,W,,586460,281501
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,123,2/26/2016,43.14748,-84.9355,1287 ft,SC/KJ,2,1,2,N,L,11:09:00 AM,A,B,S,@,W,,586419,289063
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,124,2/26/2016,43.14325,-84.93565,1244 ft,SC/KJ,2,1,2,S,L,11:10:00 AM,B,S,S,@,W,,586413,288593
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,125,2/26/2016,43.13691,-84.93566,1244 ft,SC/KJ,2,1,6,S,L,11:11:00 AM,A,S,S,@,W,,586422,287889
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,126,2/26/2016,43.12188,-84.93588,1239 ft,SC/KJ,2,1,3,S,L,11:11:00 AM,B,S,S,@,W,,586425,286219
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,127,2/26/2016,43.11343,-84.93596,1277 ft,SC/KJ,2,1,7,S,L,11:12:00 AM,B,S,S,@,W,,586431,285281
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,128,2/26/2016,43.03812,-84.93627,1300 ft,SC/KJ,2,1,1,S,L,11:15:00 AM,C,S,S,@,O,,586515,276918
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,129,2/26/2016,43.02929,-84.93621,1289 ft,SC/KJ,2,1,4,S,L,11:15:00 AM,A,S,K,@,W,,586532,275938
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,130,2/26/2016,43.00853,-84.93618,1290 ft,SC/KJ,2,1,1,S,L,11:16:00 AM,B,S,S,@,W,,586565,273633
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,131,2/26/2016,42.96983,-84.93589,1257 ft,SC/KJ,2,1,7,S,L,11:18:00 AM,A,B,S,@,W,,586644,269336
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,132,2/26/2016,42.99308,-84.87674,1313 ft,SC/KJ,2,2,8,N,L,11:21:00 AM,A,B,S,@,W,,591432,271982
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,133,2/26/2016,43.01029,-84.87668,1338 ft,SC/KJ,2,2,6,N,L,11:21:00 AM,C,S,S,@,O,,591411,273893
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,134,2/26/2016,43.03887,-84.8764,1303 ft,SC/KJ,2,2,10,N,L,11:23:00 AM,A,B,K,@,W,,591390,277067
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,135,2/26/2016,43.04644,-84.87665,1312 ft,SC/KJ,2,2,5,N,L,11:23:00 AM,B,B,S,@,W,,591358,277907
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,136,2/26/2016,43.05528,-84.87672,1279 ft,SC/KJ,2,2,6,N,L,11:23:00 AM,C,B,S,P,W,,591339,278888
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,137,2/26/2016,43.09418,-84.87629,1326 ft,SC/KJ,2,2,9,N,L,11:25:00 AM,B,S,S,@,W,,591315,283208
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,138,2/26/2016,43.10213,-84.8762,1320 ft,SC/KJ,2,2,3,N,L,11:25:00 AM,C,B,S,@,W,,591310,284091
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,139,2/26/2016,43.14233,-84.87611,1312 ft,SC/KJ,2,2,3,N,L,11:27:00 AM,B,B,S,@,W,,591256,288555
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,140,2/26/2016,43.15814,-84.87601,1279 ft,SC/KJ,2,2,4,N,L,11:27:00 AM,D,S,S,@,O,,591240,290311
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,141,2/26/2016,43.16141,-84.87592,1274 ft,SC/KJ,2,2,6,N,L,11:27:00 AM,D,M,S,@,O,,591242,290674
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,170,2/26/2016,43.08219,-84.87652,1284 ft,SC/KJ,2,2,2,S,L,11:32:00 AM,C,S,S,@,W,,591314,281877
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,171,2/26/2016,43.03867,-84.87677,1267 ft,SC/KJ,2,2,3,S,L,11:34:00 AM,B,B,S,@,W,,591360,277044
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,172,2/26/2016,43.01534,-84.87696,1194 ft,SC/KJ,2,2,8,S,L,11:35:00 AM,B,B,S,@,W,,591380,274453
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,173,2/26/2016,42.99485,-84.87707,1204 ft,SC/KJ,2,2,5,S,L,11:35:00 AM,C,S,S,@,W,,591402,272178
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,174,2/26/2016,42.9928,-84.81871,1274 ft,SC/KJ,2,3,3,N,L,11:39:00 AM,C,S,S,@,W,,596162,272017
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,175,2/26/2016,42.99479,-84.81867,1292 ft,SC/KJ,2,3,1,N,L,11:39:00 AM,B,S,S,@,O,,596162,272238
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,176,2/26/2016,43.00288,-84.81869,1266 ft,SC/KJ,2,3,5,N,L,11:39:00 AM,C,M,S,@,O,,596148,273137
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,177,2/26/2016,43.0148,-84.81878,1288 ft,SC/KJ,2,3,16,N,L,11:40:00 AM,D,M,S,P,O,PAST 0.5 MILES,596122,274460
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,178,2/26/2016,43.05589,-84.81874,1283 ft,SC/KJ,2,3,4,N,L,11:41:00 AM,B,B,S,@,W,,596059,279023
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,179,2/26/2016,43.07276,-84.81898,1267 ft,SC/KJ,2,3,12,N,L,11:42:00 AM,C,S,S,@,W,,596013,280895
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,180,2/26/2016,43.13851,-84.81798,1284 ft,SC/KJ,2,3,3,N,L,11:45:00 AM,D,S,S,@,W,,595989,288197
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,181,2/26/2016,43.11496,-84.81865,1268 ft,SC/KJ,2,3,3,S,L,11:50:00 AM,D,B,S,@,W,,595972,285582
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,182,2/26/2016,43.11032,-84.8186,1285 ft,SC/KJ,2,3,3,S,L,11:50:00 AM,D,S,K,@,O,,595983,285067
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,183,2/26/2016,43.05529,-84.81867,1264 ft,SC/KJ,2,3,5,S,L,11:52:00 AM,C,S,S,@,W,,596066,278956
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,184,2/26/2016,43.04137,-84.81903,1287 ft,SC/KJ,2,3,16,S,L,11:53:00 AM,C,B,S,@,W,,596059,277410
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,185,2/26/2016,42.99059,-84.81895,1299 ft,SC/KJ,2,3,5,S,L,11:55:00 AM,B,B,S,@,W,,596146,271772
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,186,2/26/2016,43.09905,-84.75872,1286 ft,SC/KJ,2,4,6,N,L,12:01:00 PM,C,S,K,@,O,,600874,283887
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,187,2/26/2016,43.15949,-84.75833,1310 ft,SC/KJ,2,4,1,N,L,12:03:00 PM,C,S,K,@,W,,600804,290599
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,188,2/26/2016,43.16734,-84.75797,1303 ft,SC/KJ,2,4,2,N,L,12:04:00 PM,D,B,S,@,W,,600820,291471
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,189,2/26/2016,43.1717,-84.75815,1256 ft,SC/KJ,2,4,4,S,L,12:07:00 PM,D,S,S,@,O,,600798,291955
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,190,2/26/2016,43.15415,-84.75861,1228 ft,SC/KJ,2,4,1,S,L,12:07:00 PM,D,S,S,@,W,,600790,290005
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,191,2/26/2016,43.12533,-84.75862,1272 ft,SC/KJ,2,4,4,S,L,12:09:00 PM,C,S,S,@,O,,600838,286805
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,192,2/26/2016,43.09881,-84.75886,1239 ft,SC/KJ,2,4,3,S,L,12:10:00 PM,D,B,S,@,W,,600863,283860
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,193,2/26/2016,43.02399,-84.69956,1280 ft,SC/KJ,2,5,4,N,L,12:16:00 PM,D,S,S,@,W/R,,605819,275627
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,194,2/26/2016,43.05202,-84.69967,1287 ft,SC/KJ,2,5,5,N,L,12:17:00 PM,C,,S,@,W,,605761,278739
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,195,2/26/2016,43.07292,-84.69981,1276 ft,SC/KJ,2,5,2,N,L,12:18:00 PM,B,B,S,@,W,,605713,281060
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,196,2/26/2016,43.10683,-84.69922,1308 ft,SC/KJ,2,5,4,N,L,12:20:00 PM,B,S,S,@,W,,605702,284826
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,197,2/26/2016,43.11015,-84.69931,1285 ft,SC/KJ,2,5,3,N,L,12:20:00 PM,C,S,S,@,W,,605688,285194
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,198,2/26/2016,43.16867,-84.69944,1314 ft,SC/KJ,2,5,13,N,L,12:22:00 PM,A,B,S,@,W,,605575,291692
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,199,2/26/2016,43.1207,-84.69988,1236 ft,SC/KJ,2,5,9,S,L,12:28:00 PM,A,B,S,@,W,,605623,286365
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,200,2/26/2016,43.11642,-84.7,1238 ft,SC/KJ,2,5,9,S,L,12:28:00 PM,B,B,S,@,W,,605621,285890
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,201,2/26/2016,43.10634,-84.69975,1194 ft,SC/KJ,2,5,3,S,L,12:28:00 PM,A,S,S,@,W,,605659,284771
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,202,2/26/2016,43.10114,-84.6998,1244 ft,SC/KJ,2,5,12,S,L,12:29:00 PM,C,B,S,@,W,,605664,284193
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,203,2/26/2016,43.08417,-84.6999,1271 ft,SC/KJ,2,5,5,S,L,12:29:00 PM,D,S,S,@,O,,605686,282309
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,204,2/26/2016,43.03961,-84.7,1329 ft,SC/KJ,2,5,2,S,L,12:31:00 PM,E,S,S,@,O,,605756,277361
+2/26/2016,1,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,205,2/26/2016,43.02439,-84.69985,1331 ft,SC/KJ,2,5,2,S,L,12:32:00 PM,D,S,S,@,O,,605795,275671
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,206,3/3/2016,42.96598,-84.9367,1256 ft,SC/KJ,2,1,4,N,L,10:59:00 AM,C,B,K,@,W,,586584,268907
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,207,3/3/2016,42.97169,-84.93671,1246 ft,SC/KJ,2,1,4,N,L,10:59:00 AM,C,S,K,@,W,,586575,269541
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,208,3/3/2016,43.02501,-84.93664,1252 ft,SC/KJ,2,1,2,N,L,11:01:00 AM,B,S,S,@,W,,586503,275462
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,208,3/3/2016,43.02501,-84.93664,1252 ft,SC/KJ,2,1,2,N,L,11:01:00 AM,C,S,S,@,W,,586503,275462
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,209,3/3/2016,43.02864,-84.93665,1249 ft,SC/KJ,2,1,11,N,L,11:01:00 AM,A,S,S,@,W,,586497,275865
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,210,3/3/2016,43.0666,-84.9364,1243 ft,SC/KJ,2,1,15,N,L,11:03:00 AM,C,B,S,@,W,,586463,280081
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,211,3/3/2016,43.06914,-84.93634,1252 ft,SC/KJ,2,1,2,N,L,11:03:00 AM,C,B,S,@,O,,586464,280363
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,212,3/3/2016,43.11178,-84.93596,1267 ft,SC/KJ,2,1,12,N,L,11:05:00 AM,B,S,S,@,W,,586434,285098
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,213,3/3/2016,43.14454,-84.93543,1294 ft,SC/KJ,2,1,16,N,L,11:06:00 AM,A/B,S,S,@,W,ABOUT 7 IN DISTANCE A,586429,288736
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,214,3/3/2016,43.14461,-84.93575,1249 ft,SC/KJ,2,1,11,S,L,11:08:00 AM,A,S,S,@,W,,586403,288744
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,215,3/3/2016,43.13937,-84.93568,1241 ft,SC/KJ,2,1,5,S,L,11:08:00 AM,B,S,S,@,W,,586416,288162
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,216,3/3/2016,43.13381,-84.93577,1259 ft,SC/KJ,2,1,8,S,L,11:08:00 AM,D,S,S,@,O/SHRUB,,586417,287544
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,217,3/3/2016,43.11959,-84.93586,1245 ft,SC/KJ,2,1,3,S,L,11:09:00 AM,C,S,S,@,O,,586430,285965
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,218,3/3/2016,43.11412,-84.93598,1248 ft,SC/KJ,2,1,9,S,L,11:09:00 AM,C,S,S,@,W,,586429,285358
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,219,3/3/2016,43.0985,-84.93619,1236 ft,SC/KJ,2,1,6,S,L,11:10:00 AM,D,S,S,@,W,,586434,283623
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,220,3/3/2016,43.06366,-84.93655,1215 ft,SC/KJ,2,1,3,S,L,11:11:00 AM,D,S,S,P,O,,586455,279754
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,221,3/3/2016,42.98805,-84.93608,1203 ft,SC/KJ,2,1,4,S,L,11:14:00 AM,B,B,S,@,W,,586602,271359
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,222,3/3/2016,42.97893,-84.93587,1206 ft,SC/KJ,2,1,3,S,L,11:15:00 AM,C,S,S,@,O,,586633,270346
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,223,3/3/2016,42.97039,-84.93631,1226 ft,SC/KJ,2,1,6,S,L,11:15:00 AM,B,B,S,@,W,,586609,269398
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,224,3/3/2016,42.9936,-84.87701,1247 ft,SC/KJ,2,2,1,N,L,11:19:00 AM,A,B,S,@,W,,591409,272039
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,225,3/3/2016,43.00046,-84.87717,1236 ft,SC/KJ,2,2,5,N,L,11:19:00 AM,B,S,S,@,O,,591386,272801
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,226,3/3/2016,43.01157,-84.87721,1238 ft,SC/KJ,2,2,3,N,L,11:19:00 AM,A,S,S,@,W,,591366,274034
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,227,3/3/2016,43.01931,-84.87704,1230 ft,SC/KJ,2,2,1,N,L,11:20:00 AM,D,S,S,P,W,,591368,274894
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,228,3/3/2016,43.02652,-84.87683,1226 ft,SC/KJ,2,2,15,N,L,11:20:00 AM,C,B,S,@,W,,591374,275695
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,229,3/3/2016,43.0412,-84.87704,1264 ft,SC/KJ,2,2,9,N,L,11:20:00 AM,A,S,S,@,W,,591334,277325
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,230,3/3/2016,43.04407,-84.8771,1270 ft,SC/KJ,2,2,1,N,L,11:21:00 AM,C,B,S,@,O,,591325,277643
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,231,3/3/2016,43.05243,-84.87704,1274 ft,SC/KJ,2,2,5,N,L,11:21:00 AM,A,S,S,@,W,,591317,278572
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,231,3/3/2016,43.05243,-84.87704,1274 ft,SC/KJ,2,2,3,N,L,11:21:00 AM,B,S,S,@,W,,591317,278572
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,232,3/3/2016,43.08124,-84.87664,1287 ft,SC/KJ,2,2,3,N,L,11:22:00 AM,C,S,S,@,O,,591306,281771
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,233,3/3/2016,43.08434,-84.87677,1283 ft,SC/KJ,2,2,1,N,L,11:22:00 AM,D,S,S,@,O,,591291,282115
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,234,3/3/2016,43.09988,-84.87645,1313 ft,SC/KJ,2,2,5,N,L,11:23:00 AM,C,S,S,@,W,,591293,283841
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,235,3/3/2016,43.13527,-84.87627,1284 ft,SC/KJ,2,2,3,N,L,11:24:00 AM,C,B,S,@,W/SHRUB,,591254,287771
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,236,3/3/2016,43.14277,-84.87659,1278 ft,SC/KJ,2,2,5,N,L,11:25:00 AM,B,S,S,@,W,,591216,288603
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,236,3/3/2016,43.14277,-84.87659,1278 ft,SC/KJ,2,2,5,N,L,11:25:00 AM,D,S,S,@,O,,591216,288603
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,237,3/3/2016,43.14275,-84.87623,1231 ft,SC/KJ,2,2,4,S,L,11:27:00 AM,C,S,S,@,O,,591246,288602
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,238,3/3/2016,43.13861,-84.87632,1226 ft,SC/KJ,2,2,4,S,L,11:28:00 AM,C,B,S,@,O,,591245,288142
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,239,3/3/2016,43.09611,-84.87646,1203 ft,SC/KJ,2,2,3,S,L,11:29:00 AM,B,S,S,@,O,,591298,283423
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,240,3/3/2016,43.08254,-84.87652,1221 ft,SC/KJ,2,2,4,S,L,11:30:00 AM,D,S,S,@,O,,591314,281916
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,241,3/3/2016,43.03016,-84.87672,1215 ft,SC/KJ,2,2,2,S,L,11:32:00 AM,A,B,S,@,W,,591377,276099
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,241,3/3/2016,43.03016,-84.87672,1215 ft,SC/KJ,2,2,4,S,L,11:32:00 AM,B,B,S,@,W,,591377,276099
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,242,3/3/2016,42.99619,-84.87679,1207 ft,SC/KJ,2,2,8,S,L,11:33:00 AM,B,B,S,@,W,,591423,272327
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,242,3/3/2016,42.99619,-84.87679,1207 ft,SC/KJ,2,2,2,S,L,11:33:00 AM,C,S,S,@,O/SHRUB,,591423,272327
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,244,3/3/2016,42.99454,-84.81894,1200 ft,SC/KJ,2,3,2,N,L,11:37:00 AM,B,B,S,@,W,,596141,272210
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,245,3/3/2016,43.01411,-84.81881,1227 ft,SC/KJ,2,3,5,N,L,11:38:00 AM,E,S,S,P,O,,596120,274383
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,246,3/3/2016,43.05489,-84.81965,1230 ft,SC/KJ,2,3,3,N,L,11:40:00 AM,C,S,S,@,W,,595987,278910
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,247,3/3/2016,43.0595,-84.81929,1240 ft,SC/KJ,2,3,4,N,L,11:40:00 AM,C,S,S,@,W,,596009,279423
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,248,3/3/2016,43.07222,-84.81928,1234 ft,SC/KJ,2,3,2,N,L,11:40:00 AM,C,B,S,@,W,,595989,280835
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,249,3/3/2016,43.07851,-84.81908,1211 ft,SC/KJ,2,3,4,N,L,11:41:00 AM,D,S,S,@,W/EDGE,,595995,281534
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,250,3/3/2016,43.11247,-84.81868,1235 ft,SC/KJ,2,3,3,N,L,11:42:00 AM,D,S,S,@,O,,595974,285305
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,251,3/3/2016,43.12379,-84.81822,1234 ft,SC/KJ,2,3,3,S,L,11:48:00 AM,B,B,S,@,W,,595993,286563
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,252,3/3/2016,42.9971,-84.81868,1222 ft,SC/KJ,2,3,1,S,L,11:53:00 AM,D,M,S,@,W,,596158,272495
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,253,3/3/2016,42.99034,-84.81891,1205 ft,SC/KJ,2,3,8,S,L,11:53:00 AM,B,S,S,@,W,,596150,271744
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,253,3/3/2016,42.99034,-84.81891,1205 ft,SC/KJ,2,3,15,S,L,11:53:00 AM,C,S,S,@,O,,596150,271744
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,254,3/3/2016,43.07759,-84.75937,1220 ft,SC/KJ,2,4,5,N,L,11:59:00 AM,B,B,S,@,O/SHRUB,,600857,281503
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,255,3/3/2016,43.09809,-84.75891,1238 ft,SC/KJ,2,4,24,N,L,12:00:00 PM,D,S,S,@,O,,600860,283780
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,256,3/3/2016,43.10215,-84.75895,1240 ft,SC/KJ,2,4,13,N,L,12:00:00 PM,B,S,S,@,O,,600850,284231
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,257,3/3/2016,43.16881,-84.75864,1271 ft,SC/KJ,2,4,1,S,L,12:06:00 PM,D,S,S,@,W/EDGE,,600763,291633
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,258,3/3/2016,43.12671,-84.75894,1253 ft,SC/KJ,2,4,2,S,L,12:07:00 PM,D,S,S,@,O,,600810,286958
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,259,3/3/2016,43.11812,-84.75892,1260 ft,SC/KJ,2,4,2,S,L,12:08:00 PM,E,S,S,P,O,,600826,286004
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,260,3/3/2016,43.10119,-84.75902,1237 ft,SC/KJ,2,4,13,S,L,12:08:00 PM,D,S,S,@,O,,600846,284124
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,261,3/3/2016,43.06908,-84.75941,1234 ft,SC/KJ,2,4,12,S,L,12:10:00 PM,E,S,S,P,O,,600868,280558
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,262,3/3/2016,43.09353,-84.69971,1274 ft,SC/KJ,2,5,4,N,L,12:18:00 PM,A,B,S,@,W,,605685,283348
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,263,3/3/2016,43.09681,-84.6996,1241 ft,SC/KJ,2,5,2,N,L,12:18:00 PM,A,B,S,@,W,,605688,283713
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,264,3/3/2016,43.10909,-84.69971,1228 ft,SC/KJ,2,5,4,N,L,12:18:00 PM,A,S,S,@,W,,605658,285076
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,264,3/3/2016,43.10909,-84.69971,1228 ft,SC/KJ,2,5,2,N,L,12:18:00 PM,B,S,S,@,W,,605658,285076
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,265,3/3/2016,43.12648,-84.69991,1235 ft,SC/KJ,2,5,1,N,L,12:19:00 PM,A,S,S,@,W,,605611,287007
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,266,3/3/2016,43.12318,-84.69993,1266 ft,SC/KJ,2,5,3,S,L,12:27:00 PM,C,S,S,@,O,,605615,286640
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,267,3/3/2016,43.11139,-84.70009,1224 ft,SC/KJ,2,5,7,S,L,12:27:00 PM,B,S,S,@,W,,605623,285331
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,268,3/3/2016,43.08825,-84.70029,1265 ft,SC/KJ,2,5,16,S,L,12:28:00 PM,D,S,S,@,O,,605647,282761
+3/3/2016,2,Maple River,Flat,Complete,2,Jacobs,,90,500,Waypoint,269,3/3/2016,43.0772,-84.70053,1263 ft,SC/KJ,2,5,2,S,L,12:28:00 PM,D,S,S,@,O,,605647,281534
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,270,3/4/2016,42.97062,-84.93633,1261 ft,SC/KJ,2,1,1,N,L,9:42:00 AM,B,B,S,@,O,,586607,269423
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,271,3/4/2016,43.02162,-84.93648,1279 ft,SC/KJ,2,1,7,N,L,9:44:00 AM,D,S,S,@,O,,586521,275086
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,272,3/4/2016,43.06218,-84.93624,1283 ft,SC/KJ,2,1,5,N,L,9:45:00 AM,B,B,S,@,W,,586482,279590
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,273,3/4/2016,43.06804,-84.93634,1293 ft,SC/KJ,2,1,4,N,L,9:46:00 AM,C,B,S,@,O,,586466,280241
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,274,3/4/2016,43.07467,-84.93626,1300 ft,SC/KJ,2,1,3,N,L,9:46:00 AM,B,B,S,@,W,,586463,280977
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,275,3/4/2016,43.08338,-84.93607,1323 ft,SC/KJ,2,1,8,N,L,9:46:00 AM,D,S,S,@,O,,586466,281944
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,276,3/4/2016,43.10843,-84.93571,1305 ft,SC/KJ,2,1,4,N,L,9:47:00 AM,E,M,S,@,O,Running,586459,284726
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,277,3/4/2016,43.12444,-84.93558,1301 ft,SC/KJ,2,1,2,N,L,9:48:00 AM,D,S,S,@,O,,586446,286504
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,278,3/4/2016,43.14313,-84.93529,1286 ft,SC/KJ,2,1,5,N,L,9:49:00 AM,B,S,S,@,O,,586443,288580
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,278,3/4/2016,43.14313,-84.93529,1286 ft,SC/KJ,2,1,3,N,L,9:49:00 AM,A,S,S,@,O,,586443,288580
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,279,3/4/2016,43.14644,-84.93554,1285 ft,SC/KJ,2,1,3,S,L,9:50:00 AM,B,B,S,@,W,,586418,288947
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,280,3/4/2016,42.96766,-84.9361,1256 ft,SC/KJ,2,1,8,S,L,9:57:00 AM,A,B,S,@,W,,586630,269095
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,281,3/4/2016,42.99393,-84.8769,1274 ft,SC/KJ,2,2,8,N,L,10:01:00 AM,B,S,S,@,O,,591418,272076
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,282,3/4/2016,43.00025,-84.87704,1245 ft,SC/KJ,2,2,5,N,L,10:01:00 AM,C,S,S,@,O,,591397,272778
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,283,3/4/2016,43.02274,-84.87662,1265 ft,SC/KJ,2,2,3,N,L,10:02:00 AM,C,S,S,@,W,,591397,275275
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,284,3/4/2016,43.0389,-84.87664,1258 ft,SC/KJ,2,2,4,N,L,10:02:00 AM,B,B,S,@,W,,591370,277070
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,285,3/4/2016,43.04506,-84.87661,1267 ft,SC/KJ,2,2,2,N,L,10:03:00 AM,B,S,S,@,W,,591363,277754
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,286,3/4/2016,43.05426,-84.87669,1286 ft,SC/KJ,2,2,9,N,L,10:03:00 AM,B,S,S,@,O,,591343,278775
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,287,3/4/2016,43.08145,-84.8764,1275 ft,SC/KJ,2,2,11,N,L,10:04:00 AM,C,S,S,@,O,,591325,281795
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,288,3/4/2016,43.10196,-84.87628,1281 ft,SC/KJ,2,2,4,N,L,10:05:00 AM,C,B,S,@,W,,591304,284072
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,289,3/4/2016,43.14043,-84.87589,1296 ft,SC/KJ,2,2,12,N,L,10:07:00 AM,B,B,S,@,O,,591277,288344
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,290,3/4/2016,43.14366,-84.87598,1293 ft,SC/KJ,2,2,4,N,L,10:07:00 AM,B,B,S,@,O,,591265,288703
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,291,3/4/2016,43.12856,-84.87631,1271 ft,SC/KJ,2,2,1,S,L,10:10:00 AM,D,S,K,@,O,,591261,287026
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,292,3/4/2016,43.10364,-84.87651,1271 ft,SC/KJ,2,2,4,S,L,10:11:00 AM,B,S,S,@,W,,591282,284259
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,293,3/4/2016,43.09973,-84.87635,1269 ft,SC/KJ,2,2,6,S,L,10:11:00 AM,C,S,S,@,O,,591301,283825
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,294,3/4/2016,43.03933,-84.87703,1280 ft,SC/KJ,2,2,0,S,L,10:14:00 AM,,,,,,Misidentification (coyote),591338,277117
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,295,3/4/2016,42.99621,-84.87685,1267 ft,SC/KJ,2,2,7,S,L,10:15:00 AM,B,S,S,@,W,,591418,272329
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,296,3/4/2016,42.99053,-84.81861,1252 ft,SC/KJ,2,3,5,N,L,10:19:00 AM,B,B,S,@,O,,596174,271765
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,297,3/4/2016,42.99338,-84.81876,1245 ft,SC/KJ,2,3,7,N,L,10:19:00 AM,B,B,K,@,W,,596157,272082
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,298,3/4/2016,43.01128,-84.81852,1266 ft,SC/KJ,2,3,1,N,L,10:19:00 AM,D,S,S,@,O,,596148,274069
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,299,3/4/2016,43.05482,-84.8188,1285 ft,SC/KJ,2,3,5,N,L,10:21:00 AM,A,B,S,@,W,,596056,278904
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,300,3/4/2016,43.07809,-84.81815,1276 ft,SC/KJ,2,3,10,N,L,10:22:00 AM,A,S,S,@,W,,596072,281488
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,301,3/4/2016,43.12211,-84.81799,1246 ft,SC/KJ,2,3,3,S,L,10:29:00 AM,A,S,S,P,W,,596014,286376
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,303,3/4/2016,42.98935,-84.81889,1279 ft,SC/KJ,2,3,2,S,L,10:35:00 AM,B,S,S,@,O,,596153,271634
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,304,3/4/2016,43.09812,-84.75877,1223 ft,SC/KJ,2,4,12,N,L,10:41:00 AM,C,B,S,@,W,,600871,283784
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,304,3/4/2016,43.09812,-84.75877,1223 ft,SC/KJ,2,4,4,N,L,10:41:00 AM,B,S,S,@,W,,600871,283784
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,305,3/4/2016,43.10244,-84.75883,1227 ft,SC/KJ,2,4,5,N,L,10:41:00 AM,A,S,S,@,O,,600859,284263
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,306,3/4/2016,43.16338,-84.7585,1259 ft,SC/KJ,2,4,2,N,L,10:44:00 AM,A,B,S,P,W,,600784,291030
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,307,3/4/2016,43.06859,-84.69963,1267 ft,SC/KJ,2,5,4,N,L,10:58:00 AM,B,B,S,@,W,,605735,280579
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,308,3/4/2016,43.0712,-84.69961,1269 ft,SC/KJ,2,5,2,N,L,10:58:00 AM,A,S,S,@,O,,605732,280869
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,309,3/4/2016,43.09679,-84.69973,1275 ft,SC/KJ,2,5,2,N,L,10:59:00 AM,A,S,S,P,W,,605678,283710
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,310,3/4/2016,43.15169,-84.69994,1249 ft,SC/KJ,2,5,1,S,L,11:06:00 AM,B,S,S,@,O,,605564,289806
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,311,3/4/2016,43.12198,-84.69973,1211 ft,SC/KJ,2,5,3,S,L,11:08:00 AM,B,S,S,@,W,,605633,286507
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,312,3/4/2016,43.10675,-84.69979,1204 ft,SC/KJ,2,5,2,S,L,11:08:00 AM,A,S,S,@,O,,605655,284816
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,313,3/4/2016,43.09332,-84.7001,1212 ft,SC/KJ,2,5,3,S,L,11:09:00 AM,A,B,S,@,W,,605654,283325
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,314,3/4/2016,43.08398,-84.7002,1221 ft,SC/KJ,2,5,1,S,L,11:09:00 AM,A,B,S,@,W,,605662,282287
+3/4/2016,3,Maple River,Bright,Complete (beds look like deer),0,Jacobs,,90,500,Waypoint,315,3/4/2016,43.06674,-84.70027,1246 ft,SC/KJ,2,5,2,S,L,11:10:00 AM,C,S,S,@,SHRUB,,605686,280373

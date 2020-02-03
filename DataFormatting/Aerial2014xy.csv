@@ -1,0 +1,245 @@
+Record,Survey,Study_Area,Light,Snow,Sky_code,Pilot,Duration,Flight_spe,Altitude__,Header,Name,Date,lat,lon,Altitude,Time,Elevation,Observer,OBS,Transect,Group_Size,Heading_Di,Time1,Distance_C,Activity,Initial_Ob,At_or_Past,Cover,Notes,SiteID,X,Y
+41,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Map,-,2/18/2014,0,0,,,,"BR, DW",1,1,5,N,,A,,,,,,0,12804200,-4365970
+42,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Map,-,2/18/2014,0,0,,,,"BR, DW",1,1,1,N,,C,,,,,,0,12804200,-4365970
+43,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Map,-,2/18/2014,0,0,,,,"BR, DW",1,1,1,N,,A,,,,,,0,12804200,-4365970
+44,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Map,-,2/18/2014,0,0,,,,"BR, DW",1,1,1,N,,A,,,,,,0,12804200,-4365970
+45,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Map,-,2/18/2014,0,0,,,,"BR, DW",1,1,12,N,,A,,,,,,0,12804200,-4365970
+46,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Map,-,2/18/2014,0,0,,,,"BR, DW",1,1,5,N,,A,,,,,,0,12804200,-4365970
+47,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,2,2/18/2014,43.140066,-84.935541,,2/18/2014,365.798767,"BR, DW",1,1,1,S,,A,,,,,,0,586427,288239
+48,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,2,2/18/2014,43.140066,-84.935541,,2/18/2014,365.798767,"BR, DW",1,1,5,S,,B,,,,,,0,586427,288239
+49,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,3,2/18/2014,43.109766,-84.935741,,2/18/2014,409.984894,"BR, DW",1,1,5,S,,B,,,,,,0,586454,284874
+50,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,4,2/18/2014,43.058556,-84.936307,,2/18/2014,416.343414,"BR, DW",1,1,3,S,,A,,,,,,0,586482,279187
+51,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,5,2/18/2014,42.969441,-84.935471,,2/18/2014,373.673462,"BR, DW",1,1,5,S,,B,,,,,,0,586679,269293
+52,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,6,2/18/2014,43.030499,-84.876925,,2/18/2014,405.553497,"BR, DW",1,2,3,N,11:33,A,,,,,,0,591360,276137
+53,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,7,2/18/2014,43.099174,-84.876093,,2/18/2014,417.539459,"BR, DW",1,2,10,N,11:40,B,,,,,,0,591323,283763
+54,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,8,2/18/2014,43.126719,-84.87623,,2/18/2014,405.863647,"BR, DW",1,2,25,S,11:41,C,,,,,,0,591270,286822
+55,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,9,2/18/2014,43.092259,-84.876305,,2/18/2014,392.771637,"BR, DW",1,2,1,S,11:50,C,,,,,,0,591316,282995
+56,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,10,2/18/2014,42.996734,-84.818759,,2/18/2014,410.398926,"BR, DW",1,3,5,N,,A,,,,,,0,596152,272454
+57,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,11,2/18/2014,43.076234,-84.818961,,2/18/2014,389.271545,"BR, DW",1,3,6,S,,B,,,,,,0,596009,281281
+58,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,12,2/18/2014,43.068151,-84.819077,,2/18/2014,382.468475,"BR, DW",1,3,7,S,,A,,,,,,0,596012,280384
+59,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,13,2/18/2014,43.020937,-84.81884,,2/18/2014,398.006378,"BR, DW",1,3,4,S,,A,,,,,,0,596107,275141
+60,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,14,2/18/2014,43.012519,-84.818716,,2/18/2014,390.789154,"BR, DW",1,3,7,S,,B,M,,,,running west,0,596130,274207
+61,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,15,2/18/2014,42.99292,-84.818994,,2/18/2014,404.582184,"BR, DW",1,3,7,S,,A,,,,,,0,596139,272030
+62,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,16,2/18/2014,43.093222,-84.758845,,2/18/2014,407.329071,"BR, DW",1,4,1,N,12:11,A,,,,,,0,600873,283240
+63,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,17,2/18/2014,43.180194,-84.758144,,2/18/2014,411.993073,"BR, DW",1,4,5,S,12:18,A,B,,,,,0,600784,292898
+64,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,18,2/18/2014,43.094806,-84.759217,,2/18/2014,374.341644,"BR, DW",1,4,6,S,12:27,A,B,,,,,0,600840,283415
+65,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,19,2/18/2014,43.053989,-84.699426,,2/18/2014,414.902496,"BR, DW",1,5,3,N,12:30,A,,,,,,0,605778,278958
+66,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,20,2/18/2014,43.086757,-84.700229,,2/18/2014,413.493347,"BR, DW",1,5,2,N,,A,,,,,,0,605655,282596
+67,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,21,2/18/2014,43.14256,-84.698854,,2/18/2014,403.532074,"BR, DW",1,5,2,N,12:36,A,B,,,,,0,605668,288794
+68,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,22,2/18/2014,43.187253,-84.69898,,2/18/2014,395.523315,"BR, DW",1,5,1,S,12:38,B,,,,,,0,605580,293756
+69,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,23,2/18/2014,43.153678,-84.699116,,2/18/2014,386.123993,"BR, DW",1,5,4,S,,B,,,,,,0,605628,290028
+70,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,23,2/18/2014,43.153678,-84.699116,,2/18/2014,386.123993,"BR, DW",1,5,6,S,,A,,,,,,0,605628,290028
+71,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,24,2/18/2014,43.083348,-84.700208,,2/18/2014,361.639008,"BR, DW",1,5,1,S,,A,S,,,,,0,605662,282217
+72,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,25,2/18/2014,43.072338,-84.700274,,2/18/2014,365.598663,"BR, DW",1,5,3,S,12:47,C,M,,,,,0,605676,280995
+98,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,26,2/24/2014,42.971376,-84.9361,,2/24/2014,377.256409,"BR, DW",1,1,4,N,,B,B,D,@,W,"COVER LISTED AS ""F"" - ASSUMING THAT MEANS FOREST",0,586625,269507
+99,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,27,2/24/2014,43.137907,-84.935462,,2/24/2014,381.51828,"BR, DW",1,1,3,S,,B,S,B,@,W,,0,586436,288000
+100,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,28,2/24/2014,43.062791,-84.93594,,2/24/2014,387.672211,"BR, DW",1,1,28,S,,D,S,D,@,W,,0,586506,279658
+101,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,29,2/24/2014,43.103222,-84.876317,,2/24/2014,385.825806,"BR, DW",1,2,1,N,,C,M,D,P,Open,,0,591299,284212
+102,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,30,2/24/2014,43.138545,-84.876031,,2/24/2014,387.091553,"BR, DW",1,2,3,S,,C,S,D,@,W,,0,591268,288135
+103,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,31,2/24/2014,43.072566,-84.818896,,2/24/2014,373.932373,"BR, DW",1,3,3,S,,D,B,D,@,W,ASSUMING DEFAULT INIT OBS IS DAVID,0,596020,280874
+104,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,32,2/24/2014,43.020101,-84.818654,,2/24/2014,403.97937,"BR, DW",1,3,5,S,,C,M,D,@,W,,0,596123,275049
+105,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,33,2/24/2014,43.013285,-84.759441,,2/24/2014,386.167389,"BR, DW",1,4,4,N,,D,S,D,@,W,,0,600959,274363
+106,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,34,2/24/2014,43.096826,-84.758354,,2/24/2014,359.489014,"BR, DW",1,4,3,S,,B,B,D,@,W,,0,600907,283641
+107,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,35,2/24/2014,43.054843,-84.69978,,2/24/2014,404.251343,"BR, DW",1,5,5,N,,B,S,D,@,W,,0,605747,279053
+108,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,36,2/24/2014,43.064563,-84.700157,,2/24/2014,402.080139,"BR, DW",1,5,2,N,,B,S,D,@,W,,0,605699,280131
+109,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,37,2/24/2014,43.124429,-84.69959,,2/24/2014,406.413513,"BR, DW",1,5,6,N,,C,S,D,@,W,,0,605641,286779
+110,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,38,2/24/2014,43.14186,-84.700348,,2/24/2014,404.53363,"BR, DW",1,5,5,S,,C,S,D,P,W,EDGE,0,605548,288714
+111,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,39,2/24/2014,43.081668,-84.700355,,2/24/2014,406.595001,"BR, DW",1,5,4,S,,B,B,D,@,W,,0,605653,282030
+112,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,40,2/24/2014,43.068848,-84.700008,,2/24/2014,400.079773,"BR, DW",1,5,1,S,,B,M,D,@,W,,0,605704,280607
+113,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,41,2/24/2014,43.052988,-84.700133,,2/24/2014,383.346588,"BR, DW",1,5,1,S,,B,S,B,@,Open,,0,605722,278846
+142,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,42,2/26/2014,42.970763,-84.936751,,2/26/2014,369.965424,"BR, DW",1,1,20,N,,C,S,D,@,W,,0,586573,269438
+143,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,43,2/26/2014,43.014906,-84.9361,,2/26/2014,365.554047,"BR, DW",1,1,6,N,,D,B,D,@,Open,,0,586562,274341
+144,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,44,2/26/2014,43.078285,-84.936055,,2/26/2014,366.961639,"BR, DW",1,1,5,N,,C,S,B,P,W,,0,586474,281378
+145,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,45,2/26/2014,43.100926,-84.93583,,2/26/2014,371.696136,"BR, DW",1,1,1,N,,C,S,D,@,W,,0,586460,283893
+146,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,46,2/26/2014,43.112773,-84.935691,,2/26/2014,372.90625,"BR, DW",1,1,12,N,,B,S,D,P,W,,0,586454,285208
+147,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,47,2/26/2014,43.143832,-84.935459,,2/26/2014,371.479187,"BR, DW",1,1,1,N,,B,S,D,@,W,,0,586428,288657
+148,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,48,2/26/2014,43.148716,-84.935366,,2/26/2014,385.753357,"BR, DW",1,1,1,N,,A,B,D,@,W,,0,586429,289200
+149,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,49,2/26/2014,43.139217,-84.935346,,2/26/2014,386.28363,"BR, DW",1,1,3,S,,C,S,D,@,W,,0,586444,288145
+150,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,50,2/26/2014,43.121934,-84.935872,,2/26/2014,365.035614,"BR, DW",1,1,3,S,,C,S,D,@,W,,0,586426,286225
+151,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,51,2/26/2014,43.06571,-84.936222,,2/26/2014,355.132416,"BR, DW",1,1,2,S,,A,S,D,@,W,,0,586479,279982
+152,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,52,2/26/2014,43.029754,-84.936123,,2/26/2014,369.523468,"BR, DW",1,1,1,S,,C,S,D,@,Open,,0,586539,275989
+153,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,53,2/26/2014,42.993819,-84.876873,,2/26/2014,377.990143,"BR, DW",1,2,3,N,,B,S,D,@,W,,0,591420,272064
+154,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,54,2/26/2014,43.097095,-84.876559,,2/26/2014,358.003876,"BR, DW",1,2,1,N,,C,S,D,@,Open,,0,591288,283532
+155,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,55,2/26/2014,43.143473,-84.876088,,2/26/2014,373.646973,"BR, DW",1,2,3,N,,C,S,D,@,Open,,0,591256,288682
+156,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,56,2/26/2014,43.141294,-84.876112,,2/26/2014,354.613007,"BR, DW",1,2,1,S,,C,S,D,@,W,,0,591257,288440
+157,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,57,2/26/2014,43.121348,-84.876266,,2/26/2014,368.12677,"BR, DW",1,2,10,S,,C,S,D,@,W,EDGE,0,591275,286225
+158,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,58,2/26/2014,43.097796,-84.876263,,2/26/2014,359.270294,"BR, DW",1,2,1,S,,C,S,D,@,W,,0,591311,283610
+159,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,59,2/26/2014,42.991886,-84.876842,,2/26/2014,349.66925,"BR, DW",1,2,2,S,,C,S,B,P,Open,,0,591425,271849
+160,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,60,2/26/2014,42.991142,-84.818534,,2/26/2014,387.410004,"BR, DW",1,3,11,N,,A,S,D,@,W,,0,596179,271833
+161,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,61,2/26/2014,43.112444,-84.818299,,2/26/2014,371.813507,"BR, DW",1,3,2,S,,D,S,D,@,Open,,0,596005,285303
+162,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,62,2/26/2014,43.077452,-84.818605,,2/26/2014,366.496826,"BR, DW",1,3,2,S,,B,S,D,@,W,,0,596036,281417
+163,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,63,2/26/2014,42.988381,-84.818952,,2/26/2014,338.853119,"BR, DW",1,3,4,S,,B,S,D,P,W,,0,596150,271526
+164,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,64,2/26/2014,43.079044,-84.758904,,2/26/2014,365.763916,"BR, DW",1,4,3,N,,B,S,D,@,Open,,0,600892,281665
+165,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,65,2/26/2014,43.08892,-84.758963,,2/26/2014,365.885986,"BR, DW",1,4,1,N,,C,S,D,@,Open,,0,600871,282762
+166,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,66,2/26/2014,43.167291,-84.758085,,2/26/2014,405.04425,"BR, DW",1,4,1,N,,D,S,D,@,W,,0,600811,291465
+167,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,67,2/26/2014,43.096766,-84.758969,,2/26/2014,353.940887,"BR, DW",1,4,1,S,,A,B,D,@,W,,0,600857,283633
+168,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,68,2/26/2014,43.068548,-84.699541,,2/26/2014,407.98175,"BR, DW",1,5,5,N,,A,M,D,@,W,running,0,605743,280575
+169,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,69,2/26/2014,43.086923,-84.699457,,2/26/2014,389.343658,"BR, DW",1,5,1,N,,B,S,D,@,W,,0,605717,282615
+170,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,70,2/26/2014,43.154806,-84.699462,,2/26/2014,391.878815,"BR, DW",1,5,1,N,,A,S,D,P,W,,0,605598,290153
+171,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,71,2/26/2014,43.124283,-84.699608,,2/26/2014,353.79303,"BR, DW",1,5,7,S,,B,S,D,@,W,,0,605639,286763
+172,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,72,2/26/2014,43.069797,-84.70031,,2/26/2014,367.659119,"BR, DW",1,5,1,S,,A,M,B,P,W,,0,605678,280712
+213,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,6,3/3/2014,42.969831,-84.936456,,3/3/2014,383.391174,"BS, DW",1,1,7,N,,B,B,D,@,W,,0,586598,269335
+214,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,7,3/3/2014,43.072375,-84.936432,,3/3/2014,384.356903,"BS, DW",1,1,2,N,,C,S,B,@,W,EDGE,0,586452,280722
+215,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,8,3/3/2014,43.113781,-84.935855,,3/3/2014,414.083344,"BS, DW",1,1,22,N,,B,S,D,@,W,,0,586439,285320
+216,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,9,3/3/2014,43.122074,-84.935899,,3/3/2014,409.62088,"BS, DW",1,1,8,N,,A,S,D,@,Open,,0,586424,286241
+217,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,10,3/3/2014,43.137544,-84.935497,,3/3/2014,402.809967,"BS, DW",1,1,1,N,,B,M,B,@,W,,0,586434,287959
+218,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,11,3/3/2014,43.14414,-84.935447,,3/3/2014,405.108978,"BS, DW",1,1,4,N,,B,B,D,@,W,,0,586429,288692
+219,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,12,3/3/2014,43.146895,-84.935491,,3/3/2014,390.807404,"BS, DW",1,1,6,S,,A,B,D,@,W,,0,586421,288998
+220,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,13,3/3/2014,43.141317,-84.935426,,3/3/2014,386.321838,"BS, DW",1,1,8,S,,B,S,D,@,W,,0,586434,288378
+221,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,14,3/3/2014,43.132096,-84.935864,,3/3/2014,404.924011,"BS, DW",1,1,1,S,,B,S,D,@,Open,,0,586412,287354
+222,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,15,3/3/2014,43.112079,-84.935971,,3/3/2014,382.099823,"BS, DW",1,1,6,S,,B,B,D,@,W,,0,586432,285131
+223,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,16,3/3/2014,43.068875,-84.936392,,3/3/2014,374.40506,"BS, DW",1,1,19,S,,C,S,D,@,Open,CORN,0,586460,280333
+224,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,17,3/3/2014,42.996048,-84.87682,,3/3/2014,386.64856,"BS, DW",1,2,1,N,,B,S,D,@,W,,0,591421,272311
+225,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,18,3/3/2014,43.10266,-84.876489,,3/3/2014,393.684845,"BS, DW",1,2,1,N,,C,S,D,@,W,,0,591286,284150
+226,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,19,3/3/2014,43.140624,-84.876313,,3/3/2014,370.949707,"BS, DW",1,2,4,N,,C,S,D,@,Open,,0,591242,288366
+227,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,20,3/3/2014,43.155325,-84.876104,,3/3/2014,374.468628,"BS, DW",1,2,1,S,,B,S,D,@,Open,HEDGE ROW,0,591237,289998
+228,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,21,3/3/2014,43.129257,-84.876424,,3/3/2014,376.528351,"BS, DW",1,2,17,S,,D,S,D,@,Open,,0,591250,287103
+229,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,22,3/3/2014,43.119839,-84.876137,,3/3/2014,368.059662,"BS, DW",1,2,1,S,,B,S,D,@,W,,0,591288,286058
+230,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,23,3/3/2014,42.999657,-84.876972,,3/3/2014,357.628021,"BS, DW",1,2,1,S,,C,S,D,@,Open,,0,591403,272712
+231,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,24,3/3/2014,42.992911,-84.876661,,3/3/2014,350.635864,"BS, DW",1,2,2,S,,B,S,D,P,Open,,0,591439,271963
+232,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,25,3/3/2014,42.991879,-84.81879,,3/3/2014,383.740997,"BS, DW",1,3,15,N,,B,S,D,@,W,,0,596157,271915
+233,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,26,3/3/2014,43.00273,-84.818711,,3/3/2014,393.959686,"BS, DW",1,3,5,N,,A,B,D,@,Open,EDGE,0,596146,273120
+234,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,27,3/3/2014,43.07955,-84.819001,,3/3/2014,397.815765,"BS, DW",1,3,10,N,,B,S,D,@,W,,0,596000,281649
+235,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,28,3/3/2014,43.076621,-84.81848,,3/3/2014,365.870728,"BS, DW",1,3,8,S,,C,B,D,@,W,,0,596047,281325
+236,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,29,3/3/2014,43.007438,-84.818508,,3/3/2014,387.23175,"BS, DW",1,3,5,S,,D,S,D,@,W,,0,596155,273643
+237,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,30,3/3/2014,43.095581,-84.758894,,3/3/2014,374.936462,"BS, DW",1,4,6,N,,C,B,D,@,W,,0,600865,283502
+238,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,31,3/3/2014,43.188569,-84.757934,,3/3/2014,375.385284,"BS, DW",1,4,1,S,,D,M,D,@,Open,,0,600787,293828
+239,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,32,3/3/2014,43.097611,-84.758862,,3/3/2014,363.182373,"BS, DW",1,4,5,S,,B,B,D,@,W,,0,600865,283727
+240,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,33,3/3/2014,43.05711,-84.699936,,3/3/2014,376.273254,"BS, DW",1,5,2,N,,B,B,D,P,W,,0,605731,279304
+241,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,34,3/3/2014,43.069243,-84.699883,,3/3/2014,366.312927,"BS, DW",1,5,4,N,,D,S,B,@,Open,,0,605714,280651
+242,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,35,3/3/2014,43.15242,-84.699831,,3/3/2014,393.70459,"BS, DW",1,5,3,N,,A,B,D,@,W,,0,605572,289887
+243,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,36,3/3/2014,43.153399,-84.699615,,3/3/2014,390.393341,"BS, DW",1,5,6,S,,A,S,D,@,Open,,0,605588,289996
+244,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,37,3/3/2014,43.083343,-84.699976,,3/3/2014,381.090668,"BS, DW",1,5,1,S,,B,S,D,@,Open,,0,605681,282217
+1,1,Maple River,bright,> 15cm,0,Jacobs,,90,500,Map,-,2/18/2014,0,0,500ft,18991230,,"KJ, SC",2,1,2,N,,B,,,,Forest,Need to transfer location on hard map to GIS,0,12804200,-4365970
+2,1,Maple River,bright,> 15cm,0,Jacobs,,90,500,Map,-,2/18/2014,0,0,500ft,18991230,,"KJ, SC",2,1,1,N,,A,,,,Forest,,0,12804200,-4365970
+3,1,Maple River,bright,> 15cm,0,Jacobs,,90,500,Map,-,2/18/2014,0,0,500ft,,,"KJ, SC",2,1,8,N,,A,B,,,Forest,,0,12804200,-4365970
+4,1,Maple River,bright,> 15cm,0,Jacobs,,90,500,Map,-,2/18/2014,0,0,500ft,,,"KJ, SC",2,1,1,N,,B,,,,Forest,,0,12804200,-4365970
+5,1,Maple River,bright,> 15cm,0,Jacobs,,90,500,Waypoint,823,2/18/2014,43.1455,-84.93557,1219 ft,2/18/2014,,"KJ, SC",2,1,5,S,,B,,,,Open,,0,586417,288843
+6,1,Maple River,bright,> 15cm,0,Jacobs,,90,500,Waypoint,824,2/18/2014,43.12141,-84.93585,1336 ft,2/18/2014,,"KJ, SC",2,1,2,S,,A,,,,,,0,586429,286167
+7,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,825,2/18/2014,43.11295,-84.93576,1352 ft,2/18/2014,,"KJ, SC",2,1,10,S,,A,,,,,,0,586448,285228
+8,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,826,2/18/2014,43.09648,-84.93617,1307 ft,2/18/2014,,"KJ, SC",2,1,3,S,,C,,,,,,0,586439,283399
+9,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,827,2/18/2014,43.07284,-84.93629,1319 ft,2/18/2014,,"KJ, SC",2,1,14,S,,A,,,,,,0,586463,280774
+10,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,828,2/18/2014,43.06865,-84.93599,1313 ft,2/18/2014,,"KJ, SC",2,1,4,S,,A,,,,,,0,586493,280309
+11,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,829,2/18/2014,43.00338,-84.93584,1288 ft,2/18/2014,,"KJ, SC",2,1,6,S,,A,,,,,,0,586600,273061
+12,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,830,2/18/2014,42.96917,-84.93555,1232 ft,2/18/2014,,"KJ, SC",2,1,6,S,,A,,,,,,0,586673,269263
+13,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,831,2/18/2014,43.12519,-84.87594,1366 ft,2/18/2014,,"KJ, SC",2,2,23,N,,C,S,,,Open,feeding,0,591296,286652
+14,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,832,2/18/2014,43.12997,-84.87622,1331 ft,2/18/2014,,"KJ, SC",2,2,2,S,,C,,,,Forest,,0,591266,287183
+15,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,833,2/18/2014,43.09832,-84.87656,1287 ft,2/18/2014,,"KJ, SC",2,2,1,S,,A,,,,Forest,,0,591286,283668
+16,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,833,2/18/2014,43.09832,-84.87656,1287 ft,2/18/2014,,"KJ, SC",2,2,6,S,,A,,,,Forest,,0,591286,283668
+17,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,834,2/18/2014,43.03083,-84.87692,1230 ft,2/18/2014,,"KJ, SC",2,2,5,S,,A,,,,Forest,,0,591360,276173
+18,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,835,2/18/2014,42.99265,-84.87691,1349 ft,2/18/2014,,"KJ, SC",2,2,3,S,,A,,,,Forest,,0,591419,271934
+19,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,836,2/18/2014,42.99107,-84.81855,1379 ft,2/18/2014,,"KJ, SC",2,3,1,N,,A,,,,,,0,596178,271825
+20,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,837,2/18/2014,43.01202,-84.81862,1398 ft,2/18/2014,,"KJ, SC",2,3,1,N,,C,B,,,,,0,596139,274151
+21,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,838,2/18/2014,43.02148,-84.81866,1338 ft,2/18/2014,,"KJ, SC",2,3,1,N,,A,,,,,,0,596121,275202
+22,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,839,2/18/2014,43.07829,-84.81837,1303 ft,2/18/2014,,"KJ, SC",2,3,2,N,,A,,,,,,0,596053,281510
+23,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,840,2/18/2014,43.05189,-84.81931,1314 ft,2/18/2014,,"KJ, SC",2,3,1,S,,C,,,,,,0,596019,278578
+24,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,841,2/18/2014,42.99081,-84.81903,1354 ft,2/18/2014,,"KJ, SC",2,3,35,S,,A,B,,,Forest,,0,596139,271796
+25,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,842,2/18/2014,43.09279,-84.75891,1316 ft,2/18/2014,,"KJ, SC",2,4,1,N,,B,,,,,,0,600869,283192
+26,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,843,2/18/2014,43.09757,-84.75882,1300 ft,2/18/2014,,"KJ, SC",2,4,2,N,,A,,,,,,0,600868,283723
+27,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,844,2/18/2014,43.1013,-84.75891,1323 ft,2/18/2014,,"KJ, SC",2,4,4,N,,A,,,,,,0,600855,284137
+28,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,845,2/18/2014,43.09357,-84.75935,1238 ft,2/18/2014,,"KJ, SC",2,4,1,S,,A,,,,,,0,600832,283278
+29,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,846,2/18/2014,43.07562,-84.69993,1364 ft,2/18/2014,,"KJ, SC",2,5,1,N,,A,,,,,,0,605699,281359
+30,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,847,2/18/2014,43.08371,-84.70023,1348 ft,2/18/2014,,"KJ, SC",2,5,3,N,,A,,,,,,0,605660,282257
+31,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,848,2/18/2014,43.08919,-84.70011,1356 ft,2/18/2014,,"KJ, SC",2,5,1,N,,A,,,,,,0,605660,282866
+32,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,849,2/18/2014,43.09623,-84.69995,1331 ft,2/18/2014,,"KJ, SC",2,5,2,N,,A,,,,,,0,605661,283648
+33,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,850,2/18/2014,43.15125,-84.69886,1316 ft,2/18/2014,,"KJ, SC",2,5,4,N,,A,,,,,,0,605653,289759
+34,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,851,2/18/2014,43.15651,-84.69874,1343 ft,2/18/2014,,"KJ, SC",2,5,10,N,,B,,,,,,0,605653,290343
+35,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,852,2/18/2014,43.19043,-84.69865,1373 ft,2/18/2014,,"KJ, SC",2,5,2,N,,B,,,,,,0,605601,294109
+36,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,853,2/18/2014,43.15796,-84.69904,1269 ft,2/18/2014,,"KJ, SC",2,5,1,N,,A,,,,,,0,605626,290503
+37,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,854,2/18/2014,43.14901,-84.69937,1248 ft,2/18/2014,,"KJ, SC",2,5,5,S,,A,,,,,,0,605615,289509
+38,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,855,2/18/2014,43.09987,-84.69981,1156 ft,2/18/2014,,"KJ, SC",2,5,6,S,,B,,,,,,0,605666,284052
+39,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,856,2/18/2014,43.06794,-84.70023,1204 ft,2/18/2014,,"KJ, SC",2,5,1,S,,B,,,,,,0,605688,280506
+40,1,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,857,2/18/2014,43.05209,-84.70019,1234 ft,2/18/2014,,"KJ, SC",2,5,4,S,,B,,,,Pine forest,,0,605719,278746
+73,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,858,2/24/2014,43.05991,-84.93633,1311 ft,2/24/2014,,"KJ, SC",2,1,3,N,,A,S,K,@,Open,,0,586478,279338
+74,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,859,2/24/2014,43.11452,-84.93557,1334 ft,2/24/2014,,"KJ, SC",2,1,3,N,,B,B,K,p,,,0,586461,285403
+75,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,860,2/24/2014,43.14086,-84.93563,1353 ft,2/24/2014,,"KJ, SC",2,1,3,N,,B,S,K,p,w,,0,586418,288327
+76,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,861,2/24/2014,43.14618,-84.93559,1317 ft,2/24/2014,,"KJ, SC",2,1,3,S,,A,B,K,p,,,0,586414,288918
+77,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,862,2/24/2014,43.14152,-84.93563,1320 ft,2/24/2014,,"KJ, SC",2,1,2,S,,B,S,K,@,w,,0,586417,288401
+78,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,863,2/24/2014,43.11466,-84.9358,1312 ft,2/24/2014,,"KJ, SC",2,1,15,S,,B,B,S,@,w,,0,586442,285418
+79,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,864,2/24/2014,43.09803,-84.93596,1314 ft,2/24/2014,,"KJ, SC",2,1,3,S,,C,B,K,@,w,,0,586453,283571
+80,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,865,2/24/2014,43.06787,-84.93591,1318 ft,2/24/2014,,"KJ, SC",2,1,35,N,,B,B,K,@,w,circled once to count,0,586501,280222
+81,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,866,2/24/2014,42.97078,-84.93601,1222 ft,2/24/2014,,"KJ, SC",2,1,6,S,,B,B,K,@,w,,0,586633,269441
+82,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,867,2/24/2014,43.12028,-84.8759,1304 ft,2/24/2014,,"KJ, SC",2,2,4,N,,B,S,S,@,Open,,0,591307,286107
+83,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,868,2/24/2014,43.14058,-84.87613,1322 ft,2/24/2014,,"KJ, SC",2,2,2,N,,B,S,K,@,w,,0,591257,288361
+84,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,869,2/24/2014,43.09842,-84.87632,1272 ft,2/24/2014,,"KJ, SC",2,2,3,S,,B,B,K,@,w,,0,591306,283679
+85,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,870,2/24/2014,42.99802,-84.8769,1230 ft,2/24/2014,,"KJ, SC",2,2,2,S,,A,B,S,@,w,,0,591411,272530
+86,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,871,2/24/2014,43.00772,-84.8187,1301 ft,2/24/2014,,"KJ, SC",2,3,15,N,,D,B,S,@,W,,0,596139,273674
+87,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,872,2/24/2014,43.07315,-84.81891,1245 ft,2/24/2014,,"KJ, SC",2,3,3,N,,C,S,S,@,W,,0,596018,280939
+88,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,873,2/24/2014,43.07841,-84.81924,1244 ft,2/24/2014,,"KJ, SC",2,3,4,N,,B,M,K,@,W,,0,595982,281523
+89,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,874,2/24/2014,42.98953,-84.81861,1305 ft,2/24/2014,,"KJ, SC",2,3,2,S,,A,B,K,@,W,,0,596176,271654
+90,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,875,2/24/2014,43.07535,-84.759,1252 ft,2/24/2014,,"KJ, SC",2,4,1,N,,A,B,K,@,W,,0,600891,281255
+91,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,876,2/24/2014,43.09658,-84.75859,1229 ft,2/24/2014,,"KJ, SC",2,4,25,N,,C,B,K,@,Open,,0,600889,283613
+92,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,877,2/24/2014,43.10084,-84.75866,1244 ft,2/24/2014,,"KJ, SC",2,4,10,N,,B,S,K,@,W,,0,600876,284086
+93,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,878,2/24/2014,43.07922,-84.75898,1196 ft,2/24/2014,,"KJ, SC",2,4,4,S,,B,S,S,@,W,,0,600886,281685
+94,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,879,2/24/2014,43.05376,-84.69976,1296 ft,2/24/2014,,"KJ, SC",2,5,2,N,,C,S,S,@,W,,0,605751,278932
+95,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,880,2/24/2014,43.08327,-84.69943,1293 ft,2/24/2014,,"KJ, SC",2,5,4,N,,B,B,K,@,W,,0,605726,282209
+96,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,881,2/24/2014,43.06211,-84.70012,1256 ft,2/24/2014,,"KJ, SC",2,5,1,S,,B,M,K,@,W,,0,605707,279859
+97,2,Maple River,flat,Full cover,2,Jacobs,,90,500,Waypoint,882,2/24/2014,43.05205,-84.70028,1249 ft,2/24/2014,,"KJ, SC",2,5,1,S,,B,S,K,@,Open,,0,605711,278742
+114,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,883,2/26/2014,43.06094,-84.93633,1253 ft,2/26/2014,,"KJ, SC",2,1,1,N,,B,S,S,@,Open,,0,586477,279452
+115,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,884,2/26/2014,43.0643,-84.93632,1274 ft,2/26/2014,,"KJ, SC",2,1,1,N,,C,S,K,@,Open,,0,586473,279825
+116,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,885,2/26/2014,43.11297,-84.93569,1274 ft,2/26/2014,,"KJ, SC",2,1,4,N,,B,S,K,@,W,,0,586454,285230
+117,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,886,2/26/2014,43.13909,-84.93554,1274 ft,2/26/2014,,"KJ, SC",2,1,4,N,,B,B,K,@,W,,0,586428,288131
+118,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,886,2/26/2014,43.13909,-84.93554,1274 ft,2/26/2014,,"KJ, SC",2,1,5,N,,A,S,K,@,W,,0,586428,288131
+119,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,887,2/26/2014,43.14748,-84.93568,1283 ft,2/26/2014,,"KJ, SC",2,1,2,S,,C,B,S,@,W,,0,586405,289062
+120,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,888,2/26/2014,43.14239,-84.93574,1288 ft,2/26/2014,,"KJ, SC",2,1,1,S,,B,S,K,@,W,,0,586407,288497
+121,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,889,2/26/2014,43.11492,-84.93583,1224 ft,2/26/2014,,"KJ, SC",2,1,15,S,,B,M,S,@,W,,0,586440,285447
+122,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,890,2/26/2014,43.07434,-84.93626,1212 ft,2/26/2014,,"KJ, SC",2,1,4,S,,C,B,K,@,W,,0,586463,280940
+123,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,891,2/26/2014,42.97,-84.93599,1182 ft,2/26/2014,,"KJ, SC",2,1,10,S,,B,S,S,@,W,,0,586636,269355
+124,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,892,2/26/2014,43.12035,-84.87629,1256 ft,2/26/2014,,"KJ, SC",2,2,8,N,,C,S,K,@,W,EDGE,0,591275,286114
+125,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,893,2/26/2014,43.14608,-84.87623,1262 ft,2/26/2014,,"KJ, SC",2,2,2,N,,C,M,S,P,Open,,0,591241,288971
+126,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,894,2/26/2014,43.15175,-84.87601,1245 ft,2/26/2014,,"KJ, SC",2,2,1,N,,D,S,K,@,Open,,0,591250,289601
+127,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,895,2/26/2014,43.1385,-84.87607,1193 ft,2/26/2014,,"KJ, SC",2,2,1,S,,B,B,S,P,W,,0,591265,288130
+128,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,896,2/26/2014,42.99723,-84.87679,1186 ft,2/26/2014,,"KJ, SC",2,2,4,S,,B,S,K,@,W,RIVER,0,591422,272443
+129,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,897,2/26/2014,42.99293,-84.8769,1163 ft,2/26/2014,,"KJ, SC",2,2,3,S,,B,S,K,@,W,,0,591419,271965
+130,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,898,2/26/2014,42.99015,-84.81858,1263 ft,2/26/2014,,"KJ, SC",2,3,4,N,,A,S,S,@,Open,EDGE,0,596177,271723
+131,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,899,2/26/2014,43.0085,-84.81868,1249 ft,2/26/2014,,"KJ, SC",2,3,7,N,,D,S,S,@,W,EDGE,0,596140,273761
+132,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,900,2/26/2014,43.00357,-84.81876,1147 ft,2/26/2014,,"KJ, SC",2,3,1,S,,B,S,K,@,Open,EDGE,0,596141,273213
+133,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,901,2/26/2014,42.99082,-84.819,1150 ft,2/26/2014,,"KJ, SC",2,3,18,S,,B,S,S,@,W,,0,596142,271797
+134,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,902,2/26/2014,43.07784,-84.7589,1191 ft,2/26/2014,,"KJ, SC",2,4,3,N,,B,S,K,@,W,,0,600895,281532
+135,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,903,2/26/2014,43.10002,-84.75873,1209 ft,2/26/2014,,"KJ, SC",2,4,7,N,,C,S,S,@,W,,0,600871,283995
+136,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,904,2/26/2014,43.12483,-84.75882,1233 ft,2/26/2014,,"KJ, SC",2,4,3,S,,D,S,K,@,Open,,0,600822,286749
+137,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,905,2/26/2014,43.05346,-84.69946,1261 ft,2/26/2014,,"KJ, SC",2,5,1,N,,B,S,K,@,W,,0,605776,278899
+138,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,906,2/26/2014,43.08311,-84.69947,1267 ft,2/26/2014,,"KJ, SC",2,5,2,N,,C,B,S,@,Open,,0,605723,282192
+139,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,907,2/26/2014,43.08517,-84.69943,1267 ft,2/26/2014,,"KJ, SC",2,5,3,N,,A,S,S,@,W,,0,605722,282420
+140,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,908,2/26/2014,43.12636,-84.69984,1245 ft,2/26/2014,,"KJ, SC",2,5,1,N,,A,B,S,@,W,RIVER,0,605617,286994
+141,3,Maple River,bright,Full cover,1,Jacobs,,90,500,Waypoint,909,2/26/2014,43.15251,-84.7,1213 ft,2/26/2014,,"KJ, SC",2,5,2,S,,A,S,S,@,Open,EDGE,0,605558,289897
+173,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,910,3/3/2014,43.06183,-84.93639,1258 ft,3/3/2014,,"KJ, SC",2,1,1,N,,C,S,S,P,Open,"CORN, EDGE",0,586471,279551
+174,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,911,3/3/2014,43.0646,-84.93644,1272 ft,3/3/2014,,"KJ, SC",2,1,1,N,,B,S,S,@,W,,0,586463,279858
+175,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,912,3/3/2014,43.06919,-84.93649,1260 ft,3/3/2014,,"KJ, SC",2,1,12,N,,C,M,K,@,Open,,0,586452,280368
+176,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,913,3/3/2014,43.11374,-84.93589,1346 ft,3/3/2014,,"KJ, SC",2,1,4,N,,B,B,K,@,W,,0,586436,285316
+177,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,914,3/3/2014,43.1334,-84.93568,1327 ft,3/3/2014,,"KJ, SC",2,1,1,N,,C,S,S,@,Open,EDGE,0,586425,287499
+178,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,915,3/3/2014,43.14004,-84.93548,1304 ft,3/3/2014,,"KJ, SC",2,1,4,N,,B,B,K,@,W,,0,586432,288236
+179,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,916,3/3/2014,43.14677,-84.9355,1320 ft,3/3/2014,,"KJ, SC",2,1,8,N,,A,S,K,@,W,,0,586420,288984
+180,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,917,3/3/2014,43.14675,-84.93556,1289 ft,3/3/2014,,"KJ, SC",2,1,1,S,,B,B,S,@,W,,0,586416,288981
+181,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,918,3/3/2014,43.14349,-84.93548,1288 ft,3/3/2014,,"KJ, SC",2,1,4,S,,B,B,K,@,W,,0,586427,288620
+182,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,919,3/3/2014,43.11415,-84.9359,1251 ft,3/3/2014,,"KJ, SC",2,1,4,S,,B,S,K,@,W,,0,586435,285361
+183,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,920,3/3/2014,43.11213,-84.936,1249 ft,3/3/2014,,"KJ, SC",2,1,18,S,,B,B,K,@,W,EDGE,0,586430,285137
+184,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,921,3/3/2014,43.09828,-84.93629,1263 ft,3/3/2014,,"KJ, SC",2,1,1,S,,B,S,K,@,Open,CORN,0,586426,283598
+185,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,922,3/3/2014,43.06941,-84.93643,1234 ft,3/3/2014,,"KJ, SC",2,1,1,S,,A,S,S,@,Open,,0,586456,280393
+186,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,923,3/3/2014,42.97008,-84.93591,1200 ft,3/3/2014,,"KJ, SC",2,1,4,S,,C,B,K,@,W,,0,586642,269364
+187,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,924,3/3/2014,42.96673,-84.93571,1215 ft,3/3/2014,,"KJ, SC",2,1,6,S,,B,B,K,@,W,,0,586663,268992
+188,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,925,3/3/2014,43.00485,-84.87707,1257 ft,3/3/2014,,"KJ, SC",2,2,1,N,,D,M,S,P,Open,,0,591387,273288
+189,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,926,3/3/2014,43.11993,-84.87617,1256 ft,3/3/2014,,"KJ, SC",2,2,9,N,,C,S,S,@,W,EDGE,0,591285,286068
+190,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,927,3/3/2014,43.12541,-84.87623,1256 ft,3/3/2014,,"KJ, SC",2,2,14,N,,D,M,K,@,Open,,0,591272,286676
+191,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,928,3/3/2014,43.13653,-84.87614,1215 ft,3/3/2014,,"KJ, SC",2,2,1,N,,C,S,K,@,W,,0,591262,287911
+192,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,929,3/3/2014,43.15506,-84.87618,1239 ft,3/3/2014,,"KJ, SC",2,2,3,N,,B,S,S,@,W,EDGE,0,591231,289969
+193,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,930,3/3/2014,42.99375,-84.87674,1146 ft,3/3/2014,,"KJ, SC",2,2,1,S,,B,B,S,@,W,,0,591431,272056
+194,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,931,3/3/2014,43.00781,-84.8188,1292 ft,3/3/2014,,"KJ, SC",2,3,7,N,,D,S,S,@,Open,EDGE,0,596131,273684
+195,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,932,3/3/2014,43.07783,-84.81911,1235 ft,3/3/2014,,"KJ, SC",2,3,6,N,,C,S,K,@,W,,0,595994,281458
+196,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,933,3/3/2014,43.06777,-84.81785,1112 ft,3/3/2014,,"KJ, SC",2,3,13,S,,B,S,S,@,W,,0,596113,280343
+197,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,934,3/3/2014,43.05204,-84.81864,1245 ft,3/3/2014,,"KJ, SC",2,3,6,S,,C,S,S,@,W,,0,596073,278595
+198,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,934,3/3/2014,43.05204,-84.81864,1245 ft,3/3/2014,,"KJ, SC",2,3,8,S,,D,S,S,@,Open,,0,596073,278595
+199,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,935,3/3/2014,43.03434,-84.81896,1232 ft,3/3/2014,,"KJ, SC",2,3,5,S,,B,B,S,@,W,,0,596076,276629
+200,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,936,3/3/2014,43.02884,-84.81892,1221 ft,3/3/2014,,"KJ, SC",2,3,3,S,,D,M,K,@,Open,,0,596088,276019
+201,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,937,3/3/2014,43.00183,-84.81869,1230 ft,3/3/2014,,"KJ, SC",2,3,1,S,,A,S,S,@,Open,,0,596150,273020
+202,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,938,3/3/2014,42.99078,-84.81875,1248 ft,3/3/2014,,"KJ, SC",2,3,25,S,,B,B,S,@,W,,0,596162,271793
+203,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,939,3/3/2014,43.02006,-84.75947,1295 ft,3/3/2014,,"KJ, SC",2,4,1,N,,C,B,S,P,W,,0,600945,275115
+204,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,940,3/3/2014,43.09971,-84.75888,1199 ft,3/3/2014,,"KJ, SC",2,4,4,N,,A,B,K,@,W,,0,600860,283960
+205,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,941,3/3/2014,43.18815,-84.75818,1223 ft,3/3/2014,,"KJ, SC",2,4,1,N,,D,S,S,@,Open,NO ACTIVITY LISTED,0,600768,293781
+206,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,942,3/3/2014,43.0034,-84.75948,1266 ft,3/3/2014,,"KJ, SC",2,4,2,S,,C,S,S,@,Open,,0,600972,273265
+207,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,943,3/3/2014,43.06677,-84.69999,1202 ft,3/3/2014,,"KJ, SC",2,5,2,N,,B,S,K,@,W,,0,605709,280377
+208,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,944,3/3/2014,43.08543,-84.69986,1270 ft,3/3/2014,,"KJ, SC",2,5,1,N,,B,B,S,@,W,,0,605687,282449
+209,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,945,3/3/2014,43.08687,-84.69991,1256 ft,3/3/2014,,"KJ, SC",2,5,6,N,,B,S,S,@,W,,0,605680,282609
+210,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,946,3/3/2014,43.15167,-84.69985,1261 ft,3/3/2014,,"KJ, SC",2,5,5,N,,A,S,K,@,Open,,0,605572,289804
+211,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,947,3/3/2014,43.06114,-84.7001,1244 ft,3/3/2014,,"KJ, SC",2,5,7,S,,B,B,S,@,W,,0,605710,279751
+212,4,Maple River,bright,Full cover,0,Jacobs,,90,500,Waypoint,948,3/3/2014,43.05361,-84.69998,1231 ft,3/3/2014,,"KJ, SC",2,5,3,S,,C,S,K,@,Open,EDGE,0,605733,278915
