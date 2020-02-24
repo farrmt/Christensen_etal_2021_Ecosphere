@@ -187,32 +187,3 @@ out <- jagsUI(jags.data, inits, params, model = "DS_Nmix_Emm.txt",
 
 save(out, file = "output2km.Rdata")
 
-#-----------------#
-#-Load 2km output-#
-#-----------------#
-
-load(file = "output2km.Rdata")
-
-#--------#
-#-Figure-#
-#--------#
-
-df <- data.frame(out$summary[1:4, c(3,4,1,6,7)],
-                 rep(c("2014", "2016"), 2), 
-                 rep(c("Distance sampling", "N-mixture"), each = 2))
-
-colnames(df) <- c("q2.5", "q25", "mean", "q75", "q97.5", "Year", "Model")
-
-Figure3 <- ggplot(df) + 
-  geom_errorbar(aes(x = Year, ymin = q2.5, ymax = q97.5, group = Model), 
-                width = 0.1, size = 1.25, position = position_dodge(width = 0.5)) +
-  geom_point(aes(x = Year, y = mean, group = Model), 
-             size = 5, shape = 18, position = position_dodge(width = 0.5)) +
-  geom_point(aes(x = Year, y = mean, col = Model), 
-             size = 4, shape = 18, position = position_dodge(width = 0.5)) +
-  theme_bw() +
-  labs(y = "Abundance")
-
-png(filename = "Figure3.png", res = 600, units="in", width=5, height=5)
-Figure3
-dev.off()
