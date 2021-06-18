@@ -1,3 +1,8 @@
+#----------------------------------------#
+#----Script to generate figures 3 - 7----#
+#----------------------------------------#
+
+
 library(abind)
 library(dplyr)
 library(ggplot2)
@@ -55,365 +60,274 @@ df$unit.size <- as.factor(df$unit.size)
 df1 <- df
 df <- df %>% filter(unit.size != "10")
 
-Fig1 <- df %>% filter(param == "N.ds.14.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "blue") +
-  theme_bw() +
-  labs(y = "Mean Abundance (N)", x = "Sample Unit Size (km) 2014", title = "HDS")
-#Fig1
+#----------#
+#-Figure 3-#
+#----------#
 
-Fig2 <- df %>% filter(param == "N.ds.16.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "red") +
-  theme_bw() +
-  labs(y = "Mean Abundance (N)", x = "Sample Unit Size (km) 2016", title = "HDS")
-#Fig2
+Legend <- ggplotGrob(df %>% filter(param == "N.ds.14.mu"|param == "N.nmix.14.mu") %>% 
+                       ggplot(., aes(x = unit.size, col = param)) + 
+                       geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
+                                    stat = "identity", width = 0.75, size = 0.75) +
+                       scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
+                       theme_bw() +
+                       theme(legend.title = element_blank(),
+                             legend.position = "bottom",
+                             text = element_text(size = 12)))$grob[[15]]
 
-Fig3 <- df %>% filter(param == "N.nmix.14.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "blue") +
-  theme_bw() +
-  labs(y = "Mean Abundance (N)", x = "Sample Unit Size (km) 2014", title = "Nmix")
-#Fig3
-
-Fig4 <- df %>% filter(param == "N.nmix.16.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "red") +
-  theme_bw() +
-  labs(y = "Mean Abundance (N)", x = "Sample Unit Size (km) 2016", title = "Nmix")
-#Fig4
-
-Fig5 <- df %>% filter(param == "N.ds.14.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "blue") +
-  theme_bw() +
-  labs(y = "SD Abundance (N)", x = "Sample Unit Size (km) 2014", title = "HDS")
-#Fig5
-
-Fig6 <- df %>% filter(param == "N.ds.16.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "red") +
-  theme_bw() +
-  labs(y = "SD Abundance (N)", x = "Sample Unit Size (km) 2016", title = "HDS")
-#Fig6
-
-Fig7 <- df %>% filter(param == "N.nmix.14.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "blue") +
-  theme_bw() +
-  labs(y = "SD Abundance (N)", x = "Sample Unit Size (km) 2014", title = "Nmix")
-#Fig7
-
-Fig8 <- df %>% filter(param == "N.nmix.16.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "red") +
-  theme_bw() +
-  labs(y = "SD Abundance (N)", x = "Sample Unit Size (km) 2016", title = "Nmix")
-#Fig8
-
-Fig9 <- df %>% filter(param == "pi.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "Mean Detection Probability", x = "Sample Unit Size (km)", title = "HDS")
-#Fig9
-
-Fig10 <- df %>% filter(param == "p.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "Mean Detection Probability", x = "Sample Unit Size (km)", title = "Nmix")
-#Fig10
-
-Fig11 <- df %>% filter(param == "pi.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "SD Detection Probability", x = "Sample Unit Size (km)", title = "HDS")
-#Fig11
-
-Fig12 <- df %>% filter(param == "p.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "SD Detection Probability", x = "Sample Unit Size (km)", title = "Nmix")
-#Fig12
-
-Fig13 <- df %>% filter(param == "phi.ds.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "Mean Availability Probability", x = "Sample Unit Size (km)", title = "HDS")
-#Fig13
-
-Fig14 <- df %>% filter(param == "phi.nmix.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "Mean Availability Probability", x = "Sample Unit Size (km)", title = "Nmix")
-#Fig14
-
-Fig15 <- df %>% filter(param == "phi.ds.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "SD Availability Probability", x = "Sample Unit Size (km)", title = "HDS")
-#Fig15
-
-Fig16 <- df %>% filter(param == "phi.nmix.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "SD Availability Probability", x = "Sample Unit Size (km)", title = "Nmix")
-#Fig16
-
-plot_grid(Fig1, Fig3, Fig2, Fig4, Fig5, Fig7, Fig6, Fig8, 
-          Fig9, Fig10, Fig13, Fig14, Fig11, Fig12, Fig15, Fig16,
-          ncol = 4)
-
-#------------------#
-#-Individual plots-#
-#------------------#
-
-png(filename = "N_ds_14_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.ds.14.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "blue") +
-  theme_bw() +
-  labs(y = "Mean Abundance (N)", x = "Sample Unit Size (km)")
-dev.off()
-#Fig1
-
-png(filename = "N_ds_16_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.ds.16.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "red") +
-  theme_bw() +
-  labs(y = "Mean Abundance (N)", x = "Sample Unit Size (km)")
-dev.off()
-#Fig2
-
-png(filename = "N_nmix_14_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.nmix.14.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "blue") +
-  theme_bw() +
-  labs(y = "Mean Abundance (N)", x = "Sample Unit Size (km)")
-dev.off()
-#Fig3
-
-png(filename = "N_nmix_16_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.nmix.16.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "red") +
-  theme_bw() +
-  labs(y = "Mean Abundance (N)", x = "Sample Unit Size (km)")
-dev.off()
-#Fig4
-
-png(filename = "N_ds_14_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.ds.14.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "blue") +
-  theme_bw() +
-  labs(y = "SD Abundance (N)", x = "Sample Unit Size (km)")
-dev.off()
-#Fig5
-
-png(filename = "N_ds_16_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.ds.16.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "red") +
-  theme_bw() +
-  labs(y = "SD Abundance (N)", x = "Sample Unit Size (km)")
-dev.off()
-#Fig6
-
-png(filename = "N_nmix_14_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.nmix.14.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "blue") +
-  theme_bw() +
-  labs(y = "SD Abundance (N)", x = "Sample Unit Size (km)")
-dev.off()
-#Fig7
-
-png(filename = "N_nmix_16_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.nmix.16.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge", col = "red") +
-  theme_bw() +
-  labs(y = "SD Abundance (N)", x = "Sample Unit Size (km)")
-dev.off()
-#Fig8
-
-png(filename = "pi_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "pi.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "Mean Detection Probability", x = "Sample Unit Size (km)")
-dev.off()
-#Fig9
-
-png(filename = "p_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "p.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "Mean Detection Probability", x = "Sample Unit Size (km)")
-dev.off()
-#Fig10
-
-png(filename = "pi_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "pi.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "SD Detection Probability", x = "Sample Unit Size (km)")
-dev.off()
-#Fig11
-
-png(filename = "p_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "p.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "SD Detection Probability", x = "Sample Unit Size (km)")
-dev.off()
-#Fig12
-
-png(filename = "phi_ds_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "phi.ds.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "Mean Availability Probability", x = "Sample Unit Size (km)")
-dev.off()
-#Fig13
-
-png(filename = "phi_nmix_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "phi.nmix.mu") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "Mean Availability Probability", x = "Sample Unit Size (km)")
-dev.off()
-#Fig14
-
-png(filename = "phi_ds_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "phi.ds.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "SD Availability Probability", x = "Sample Unit Size (km)")
-dev.off()
-#Fig15
-
-png(filename = "phi_nmix_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "phi.nmix.sd") %>% ggplot(., aes(x = unit.size)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", size = 0.75, position = "dodge") +
-  theme_bw() +
-  labs(y = "SD Availability Probability", x = "Sample Unit Size (km)")
-dev.off()
-#Fig16
-
-#-Combined types-#
-
-png(filename = "N_14_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.ds.14.mu"|param == "N.nmix.14.mu") %>% 
+Fig3A <- ggplotGrob(df %>% filter(param == "N.ds.14.mu"|param == "N.nmix.14.mu") %>% 
   ggplot(., aes(x = unit.size, col = param)) + 
   geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
                stat = "identity", width = 0.75, size = 0.75) +
   scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
   theme_bw() +
-  theme(legend.title = element_blank()) +
-  labs(y = "Mean Abundance (N)", x = "Sample Unit Size (km)")
-dev.off()
+  theme(legend.title = element_blank(),
+        text = element_text(size = 12),
+        plot.margin = unit(c(1,1,0,0),"cm"),
+        legend.position = "none") +
+  labs(y = "Mean Abundance (N)\n", x = "", title = ""))
 
-png(filename = "N_16_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.ds.16.mu"|param == "N.nmix.16.mu") %>% 
+Fig3B <- ggplotGrob(df %>% filter(param == "N.ds.14.sd"|param == "N.nmix.14.sd") %>% 
   ggplot(., aes(x = unit.size, col = param)) + 
   geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
                stat = "identity", width = 0.75, size = 0.75) +
   scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
   theme_bw() +
-  theme(legend.title = element_blank()) +
-  labs(y = "Mean Abundance (N)", x = "Sample Unit Size (km)")
+  theme(legend.title = element_blank(),
+        text = element_text(size = 12),
+        plot.margin = unit(c(1,1,0,0),"cm"),
+        legend.position = "none") +
+  labs(y = "SD Abundance (N)\n", x = ""))
+
+Fig3A$heights <- Fig3B$heights
+
+loc <- Fig3A$layout[grep("ylab-l", Fig3A$layout$name),1:4]
+
+Fig3A <- gtable::gtable_add_grob(Fig3A, grid::textGrob(LETTERS[1], x = 0.2, y = 1, 
+                                                       gp = grid::gpar(fontsize = 12, fontface = 2)),
+                                 t = loc$t, l = loc$l, clip = "inherit")
+
+loc <- Fig3B$layout[grep("ylab-l", Fig3B$layout$name),1:4]
+
+Fig3B <- gtable::gtable_add_grob(Fig3B, grid::textGrob(LETTERS[2], x = 0.2, y = 1, 
+                                                       gp = grid::gpar(fontsize = 12, fontface = 2)),
+                                 t = loc$t, l = loc$l, clip = "inherit")
+
+
+png(filename = "Figure3.png", res = 600, units="cm", width=15.6, height=7.8)
+gridExtra::grid.arrange(
+  gridExtra::gtable_cbind(Fig3A, Fig3B),
+  grid::textGrob("Sample Unit Size (km)", 
+                 x = 0.5, y = 1.2, 
+                 gp = grid::gpar(fontsize = 12, 
+                                 fontface = 1)),
+  Legend,
+  nrow = 3,
+  heights = c(1,0.1,0.075))
 dev.off()
 
-png(filename = "N_14_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.ds.14.sd"|param == "N.nmix.14.sd") %>% 
-  ggplot(., aes(x = unit.size, col = param)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", width = 0.75, size = 0.75) +
-  scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
-  theme_bw() +
-  theme(legend.title = element_blank()) +
-  labs(y = "SD Abundance (N)", x = "Sample Unit Size (km)")
+#----------#
+#-Figure 4-#
+#----------#
+
+Fig4A <- ggplotGrob(df %>% filter(param == "N.ds.16.mu"|param == "N.nmix.16.mu") %>% 
+                      ggplot(., aes(x = unit.size, col = param)) + 
+                      geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
+                                   stat = "identity", width = 0.75, size = 0.75) +
+                      scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
+                      theme_bw() +
+                      theme(legend.title = element_blank(),
+                            text = element_text(size = 12),
+                            plot.margin = unit(c(1,1,0,0),"cm"),
+                            legend.position = "none") +
+                      labs(y = "Mean Abundance (N)\n", x = "", title = ""))
+
+Fig4B <- ggplotGrob(df %>% filter(param == "N.ds.16.sd"|param == "N.nmix.16.sd") %>% 
+                      ggplot(., aes(x = unit.size, col = param)) + 
+                      geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
+                                   stat = "identity", width = 0.75, size = 0.75) +
+                      scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
+                      theme_bw() +
+                      theme(legend.title = element_blank(),
+                            text = element_text(size = 12),
+                            plot.margin = unit(c(1,1,0,0),"cm"),
+                            legend.position = "none") +
+                      labs(y = "SD Abundance (N)\n", x = ""))
+
+Fig4A$heights <- Fig4B$heights
+
+loc <- Fig4A$layout[grep("ylab-l", Fig4A$layout$name),1:4]
+
+Fig4A <- gtable::gtable_add_grob(Fig4A, grid::textGrob(LETTERS[1], x = 0.2, y = 1, 
+                                                       gp = grid::gpar(fontsize = 12, fontface = 2)),
+                                 t = loc$t, l = loc$l, clip = "inherit")
+
+loc <- Fig4B$layout[grep("ylab-l", Fig4B$layout$name),1:4]
+
+Fig4B <- gtable::gtable_add_grob(Fig4B, grid::textGrob(LETTERS[2], x = 0.2, y = 1, 
+                                                       gp = grid::gpar(fontsize = 12, fontface = 2)),
+                                 t = loc$t, l = loc$l, clip = "inherit")
+
+
+png(filename = "Figure4.png", res = 600, units="cm", width=15.6, height=7.8)
+gridExtra::grid.arrange(
+  gridExtra::gtable_cbind(Fig4A, Fig4B),
+  grid::textGrob("Sample Unit Size (km)", 
+                 x = 0.5, y = 1.2, 
+                 gp = grid::gpar(fontsize = 12, 
+                                 fontface = 1)),
+  Legend,
+  nrow = 3,
+  heights = c(1,0.1,0.075))
 dev.off()
 
-png(filename = "N_16_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "N.ds.16.sd"|param == "N.nmix.16.sd") %>% 
-  ggplot(., aes(x = unit.size, col = param)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", width = 0.75, size = 0.75) +
-  scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
-  theme_bw() +
-  theme(legend.title = element_blank()) +
-  labs(y = "SD Abundance (N)", x = "Sample Unit Size (km)")
+#----------#
+#-Figure 5-#
+#----------#
+
+Fig5A <- ggplotGrob(df %>% filter(param == "phi.ds.mu"|param == "phi.nmix.mu") %>% 
+                      ggplot(., aes(x = unit.size, col = param)) + 
+                      geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
+                                   stat = "identity", width = 0.75, size = 0.75) +
+                      scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
+                      theme_bw() +
+                      theme(legend.title = element_blank(),
+                            text = element_text(size = 12),
+                            plot.margin = unit(c(1,1,0,0),"cm"),
+                            legend.position = "none") +
+                      labs(y = "Mean Availability\nProbability", x = "", title = ""))
+
+Fig5B <- ggplotGrob(df %>% filter(param == "phi.ds.sd"|param == "phi.nmix.sd") %>% 
+                      ggplot(., aes(x = unit.size, col = param)) + 
+                      geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
+                                   stat = "identity", width = 0.75, size = 0.75) +
+                      scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
+                      theme_bw() +
+                      theme(legend.title = element_blank(),
+                            text = element_text(size = 12),
+                            plot.margin = unit(c(1,1,0,0),"cm"),
+                            legend.position = "none") +
+                      labs(y = "SD Availability\nProbability", x = ""))
+
+Fig5A$heights <- Fig5B$heights
+
+loc <- Fig5A$layout[grep("ylab-l", Fig5A$layout$name),1:4]
+
+Fig5A <- gtable::gtable_add_grob(Fig5A, grid::textGrob(LETTERS[1], x = 0.2, y = 1, 
+                                                       gp = grid::gpar(fontsize = 12, fontface = 2)),
+                                 t = loc$t, l = loc$l, clip = "inherit")
+
+loc <- Fig5B$layout[grep("ylab-l", Fig5B$layout$name),1:4]
+
+Fig5B <- gtable::gtable_add_grob(Fig5B, grid::textGrob(LETTERS[2], x = 0.2, y = 1, 
+                                                       gp = grid::gpar(fontsize = 12, fontface = 2)),
+                                 t = loc$t, l = loc$l, clip = "inherit")
+
+
+png(filename = "Figure5.png", res = 600, units="cm", width=15.6, height=7.8)
+gridExtra::grid.arrange(
+  gridExtra::gtable_cbind(Fig5A, Fig5B),
+  grid::textGrob("Sample Unit Size (km)", 
+                 x = 0.5, y = 1.2, 
+                 gp = grid::gpar(fontsize = 12, 
+                                 fontface = 1)),
+  Legend,
+  nrow = 3,
+  heights = c(1,0.175,0.075))
 dev.off()
 
-png(filename = "phi_mu.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "phi.ds.mu"|param == "phi.nmix.mu") %>% 
-  ggplot(., aes(x = unit.size, col = param)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", width = 0.75, size = 0.75) +
-  scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
-  theme_bw() +
-  theme(legend.title = element_blank()) +
-  labs(y = "Mean Availability Probability", x = "Sample Unit Size (km)")
+#----------#
+#-Figure 6-#
+#----------#
+
+Fig6A <- ggplotGrob(df %>% filter(param == "p.mu") %>% 
+                      ggplot(., aes(x = unit.size)) + 
+                      geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
+                                   stat = "identity", width = 0.75, size = 0.75) +
+                      theme_bw() +
+                      theme(text = element_text(size = 12),
+                            plot.margin = unit(c(1,1,0,0),"cm")) +
+                      labs(y = "Mean Detection\nProbability", x = "", title = ""))
+
+Fig6B <- ggplotGrob(df %>% filter(param == "p.sd") %>% 
+                      ggplot(., aes(x = unit.size)) + 
+                      geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
+                                   stat = "identity", width = 0.75, size = 0.75) +
+                      theme_bw() +
+                      theme(text = element_text(size = 12),
+                            plot.margin = unit(c(1,1,0,0),"cm")) +
+                      labs(y = "SD Detection\nProbability", x = ""))
+
+Fig6A$heights <- Fig6B$heights
+
+loc <- Fig6A$layout[grep("ylab-l", Fig6A$layout$name),1:4]
+
+Fig6A <- gtable::gtable_add_grob(Fig6A, grid::textGrob(LETTERS[1], x = 0.2, y = 1, 
+                                                       gp = grid::gpar(fontsize = 12, fontface = 2)),
+                                 t = loc$t, l = loc$l, clip = "inherit")
+
+loc <- Fig6B$layout[grep("ylab-l", Fig6B$layout$name),1:4]
+
+Fig6B <- gtable::gtable_add_grob(Fig6B, grid::textGrob(LETTERS[2], x = 0.2, y = 1, 
+                                                       gp = grid::gpar(fontsize = 12, fontface = 2)),
+                                 t = loc$t, l = loc$l, clip = "inherit")
+
+
+png(filename = "Figure6.png", res = 600, units="cm", width=15.6, height=7.8)
+gridExtra::grid.arrange(
+  gridExtra::gtable_cbind(Fig6A, Fig6B),
+  grid::textGrob("Sample Unit Size (km)", 
+                 x = 0.5, y = 1.025, 
+                 gp = grid::gpar(fontsize = 12, 
+                                 fontface = 1)),
+  nrow = 2,
+  heights = c(1,0.1))
 dev.off()
 
-png(filename = "phi_sd.png", res = 600, units="in", width=5, height=5)
-df %>% filter(param == "phi.ds.sd"|param == "phi.nmix.sd") %>% 
-  ggplot(., aes(x = unit.size, col = param)) + 
-  geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
-               stat = "identity", width = 0.75, size = 0.75) +
-  scale_color_manual(values = c("blue", "red"), labels = c("HDS", "N-mixture")) +
-  theme_bw() +
-  theme(legend.title = element_blank()) +
-  labs(y = "SD Availability Probability", x = "Sample Unit Size (km)")
+
+#----------#
+#-Figure 7-#
+#----------#
+
+Fig7A <- ggplotGrob(df %>% filter(param == "pi.mu") %>% 
+                      ggplot(., aes(x = unit.size)) + 
+                      geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
+                                   stat = "identity", width = 0.75, size = 0.75) +
+                      theme_bw() +
+                      theme(text = element_text(size = 12),
+                            plot.margin = unit(c(1,1,0,0),"cm")) +
+                      labs(y = "Mean Detection\nProbability", x = "", title = ""))
+
+Fig7B <- ggplotGrob(df %>% filter(param == "pi.sd") %>% 
+                      ggplot(., aes(x = unit.size)) + 
+                      geom_boxplot(aes(ymin = ymin, lower = y25, middle = y50, upper = y75, ymax = ymax), 
+                                   stat = "identity", width = 0.75, size = 0.75) +
+                      theme_bw() +
+                      theme(text = element_text(size = 12),
+                            plot.margin = unit(c(1,1,0,0),"cm")) +
+                      labs(y = "SD Detection\nProbability", x = ""))
+
+Fig7A$heights <- Fig7B$heights
+
+loc <- Fig7A$layout[grep("ylab-l", Fig7A$layout$name),1:4]
+
+Fig7A <- gtable::gtable_add_grob(Fig7A, grid::textGrob(LETTERS[1], x = 0.2, y = 1, 
+                                                       gp = grid::gpar(fontsize = 12, fontface = 2)),
+                                 t = loc$t, l = loc$l, clip = "inherit")
+
+loc <- Fig7B$layout[grep("ylab-l", Fig7B$layout$name),1:4]
+
+Fig7B <- gtable::gtable_add_grob(Fig7B, grid::textGrob(LETTERS[2], x = 0.2, y = 1, 
+                                                       gp = grid::gpar(fontsize = 12, fontface = 2)),
+                                 t = loc$t, l = loc$l, clip = "inherit")
+
+
+png(filename = "Figure7.png", res = 600, units="cm", width=15.6, height=7.8)
+gridExtra::grid.arrange(
+  gridExtra::gtable_cbind(Fig7A, Fig7B),
+  grid::textGrob("Sample Unit Size (km)", 
+                 x = 0.5, y = 1.025, 
+                 gp = grid::gpar(fontsize = 12, 
+                                 fontface = 1)),
+  nrow = 2,
+  heights = c(1,0.1))
 dev.off()
-
-#-----------------#
-#-Load 2km output-#
-#-----------------#
-
-load(file = "output2km.Rdata")
-
-#--------#
-#-Figure-#
-#--------#
-
-df <- data.frame(out$summary[1:4, c(3,4,1,6,7)],
-                 rep(c("2014", "2016"), 2), 
-                 rep(c("HDS", "N-mixture"), each = 2))
-
-colnames(df) <- c("q2.5", "q25", "mean", "q75", "q97.5", "Year", "Model")
-
-Figure3 <- ggplot(df) + 
-  geom_errorbar(aes(x = Year, ymin = q2.5, ymax = q97.5, group = Model), 
-                width = 0.1, size = 1.25, position = position_dodge(width = 0.5)) +
-  geom_point(aes(x = Year, y = mean, group = Model), 
-             size = 5, shape = 18, position = position_dodge(width = 0.5)) +
-  geom_point(aes(x = Year, y = mean, col = Model), 
-             size = 4, shape = 18, position = position_dodge(width = 0.5)) +
-  theme_bw() +
-  labs(y = "Abundance")
-
-png(filename = "Figure3.png", res = 600, units="in", width=5, height=5)
-Figure3
-dev.off()
-
